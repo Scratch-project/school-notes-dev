@@ -1,19 +1,19 @@
-# Chemistry Notes
+# Chemie Notizen
 
-Welcome to the chemistry section! 
+Willkommen im Chemie-Bereich!
 
-## 📚 Coming Soon
+## 📚 Demnächst verfügbar
 
-This section will contain comprehensive chemistry study materials including:
+Dieser Bereich wird umfassende Chemie-Lernmaterialien enthalten, einschließlich:
 
-- **Organic Chemistry** - Carbon-based compounds and reactions
-- **Inorganic Chemistry** - Elements, compounds, and periodic trends
-- **Physical Chemistry** - Thermodynamics, kinetics, and equilibrium
-- **Laboratory Techniques** - Experimental procedures and safety
-- **Formula Collections** - Essential chemical formulas and constants
+- **Organische Chemie** - Kohlenstoffbasierte Verbindungen und Reaktionen
+- **Anorganische Chemie** - Elemente, Verbindungen und Periodensystem-Trends
+- **Physikalische Chemie** - Thermodynamik, Kinetik und Gleichgewicht
+- **Labortechniken** - Experimentelle Verfahren und Sicherheit
+- **Formelsammlungen** - Wichtige chemische Formeln und Konstanten
 
 ---
 
-*This section is currently under development. Physics content is available now!*
+*Dieser Bereich wird derzeit entwickelt. Physik-Inhalte sind bereits verfügbar!*
 
-[← Back to main page](../index.md)
+[← Zurück zur Hauptseite](../index.md)

@@ -1,19 +1,19 @@
-# Biology Notes
+# Biologie Notizen
 
-Welcome to the biology section! 
+Willkommen im Biologie-Bereich!
 
-## 📚 Coming Soon
+## 📚 Demnächst verfügbar
 
-This section will contain comprehensive biology study materials including:
+Dieser Bereich wird umfassende Biologie-Lernmaterialien enthalten, einschließlich:
 
-- **Cell Biology** - Cellular structure and processes
-- **Genetics** - DNA, RNA, and inheritance patterns
-- **Evolution** - Natural selection and biodiversity
-- **Ecology** - Ecosystems and environmental interactions
-- **Human Biology** - Anatomy and physiology
+- **Zellbiologie** - Zelluläre Struktur und Prozesse
+- **Genetik** - DNA, RNA und Vererbungsmuster
+- **Evolution** - Natürliche Selektion und Biodiversität
+- **Ökologie** - Ökosysteme und Umwechselwirkungen
+- **Humanbiologie** - Anatomie und Physiologie
 
 ---
 
-*This section is currently under development. Physics content is available now!*
+*Dieser Bereich wird derzeit entwickelt. Physik-Inhalte sind bereits verfügbar!*
 
-[← Back to main page](../index.md)
+[← Zurück zur Hauptseite](../index.md)

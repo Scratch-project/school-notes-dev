@@ -1,19 +1,19 @@
-# Mathematics Notes
+# Mathematik Notizen
 
-Welcome to the mathematics section! 
+Willkommen im Mathematik-Bereich! 
 
-## 📚 Coming Soon
+## 📚 Demnächst verfügbar
 
-This section will contain comprehensive mathematics study materials including:
+Dieser Bereich wird umfassende Mathematik-Lernmaterialien enthalten, einschließlich:
 
-- **Calculus** - Differential and integral calculus
-- **Linear Algebra** - Vectors, matrices, and transformations  
-- **Statistics & Probability** - Data analysis and probability theory
-- **Geometry** - Analytical and descriptive geometry
-- **Formula Collections** - Essential mathematical formulas
+- **Analysis** - Differential- und Integralrechnung
+- **Lineare Algebra** - Vektoren, Matrizen und Transformationen  
+- **Statistik & Wahrscheinlichkeit** - Datenanalyse und Wahrscheinlichkeitstheorie
+- **Geometrie** - Analytische und deskriptive Geometrie
+- **Formelsammlungen** - Wichtige mathematische Formeln
 
 ---
 
-*This section is currently under development. Physics content is available now!*
+*Dieser Bereich wird derzeit entwickelt. Physik-Inhalte sind bereits verfügbar!*
 
-[← Back to main page](../index.md)
+[← Zurück zur Hauptseite](../index.md)

@@ -1,43 +1,52 @@
-# School Notes - Main Site
+# Schule Notizen - Hauptseite
 
-Welcome to my comprehensive school notes website! This site contains organized study materials for various subjects.
+Willkommen zu meiner umfassenden Schul-Notizen Website! Diese Seite enthält organisierte Lernmaterialien für verschiedene Fächer.
 
-## Available Subjects
+## Verfügbare Fächer
 
-### 🔬 [Physics](physik/)
-Complete physics notes including:
-- Nuclear physics and atomic structure
-- Wave mechanics and oscillations
-- Electromagnetic radiation
-- Mathematical formulas and problem-solving approaches
+### 🔬 [Physik](physik/)
 
-### 📐 [Mathematics](mathematics/)
-*Coming soon* - Mathematical concepts and problem-solving techniques
+Vollständige Physik-Notizen inklusive:
 
-### ⚗️ [Chemistry](chemistry/)
-*Coming soon* - Chemical principles and laboratory procedures
+- Kernphysik und Atomstruktur
+- Wellenmechanik und Schwingungen
+- Elektromagnetische Strahlung
+- Mathematische Formeln und Problemlösungsansätze
 
-### 🧬 [Biology](biology/)
-*Coming soon* - Biological systems and life sciences
+### 💻 [Informatik](informatik/)
 
----
+*Demnächst verfügbar* - Programmierung und Computerwissenschaften
 
-## About This Site
+### 📐 [Mathematik](mathematics/)
 
-This website is built with [Quartz](https://quartz.jzhao.xyz/) to provide an easy-to-navigate, searchable collection of study materials. Each subject is organized with:
+*Demnächst verfügbar* - Mathematische Konzepte und Problemlösungstechniken
 
-- **Topic-specific pages** for focused learning
-- **Formula sheets** for quick reference
-- **Example problems** and solutions
-- **Visual aids** and diagrams
+### ⚗️ [Chemie](chemistry/)
 
-## Navigation Tips
+*Demnächst verfügbar* - Chemische Prinzipien und Laborverfahren
 
-- Use the search function to quickly find specific topics
-- Each subject has its own dedicated section
-- Topics are cross-referenced where applicable
-- All formulas are properly formatted with LaTeX
+### 🧬 [Biologie](biology/)
+
+*Demnächst verfügbar* - Biologische Systeme und Lebenswissenschaften
 
 ---
 
-*Last updated: May 2025*
+## Über diese Seite
+
+Diese Website wurde mit [Quartz](https://quartz.jzhao.xyz/) erstellt, um eine einfach navigierbare, durchsuchbare Sammlung von Lernmaterialien bereitzustellen. Jedes Fach ist organisiert mit:
+
+- **Themenspezifische Seiten** für fokussiertes Lernen
+- **Formelsammlungen** für schnelle Referenz
+- **Beispielaufgaben** und Lösungen
+- **Visuelle Hilfsmittel** und Diagramme
+
+## Navigations-Tipps
+
+- Nutze die Suchfunktion, um schnell bestimmte Themen zu finden
+- Jedes Fach hat seinen eigenen dedizierten Bereich
+- Themen sind querverwiesen, wo anwendbar
+- Alle Formeln sind korrekt mit LaTeX formatiert
+
+---
+
+*Zuletzt aktualisiert: Mai 2025*
