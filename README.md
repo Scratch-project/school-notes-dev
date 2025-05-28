@@ -1,13 +1,25 @@
 # School Notes - Development
 
-⚠️ **DEVELOPMENT REPOSITORY** - This is the experimental development version for testing new features.
+⚠️ **DEVELOPMENT REPOSITORY** - This is the experimen## 🔗 Links
+
+- **Production Repository**: [school-notes](https://github.com/Scratch-project/school-notes)
+- **Quartz Documentation**: [quartz.jzhao.xyz](https://quartz.jzhao.xyz/)
+- **Physics LK Original**: Based on comprehensive physics course materials
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+*"[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important." — Richard Hamming*nt version for testing new features.
 
 A comprehensive collection of study materials for various school subjects, built with [Quartz](https://quartz.jzhao.xyz/).
 
 ## 🌐 Live Sites
 
-- **Development Site (this repo)**: [https://YOUR-USERNAME.github.io/school-notes-dev](https://YOUR-USERNAME.github.io/school-notes-dev)
-- **Production Site**: [https://YOUR-USERNAME.github.io/school-notes](https://YOUR-USERNAME.github.io/school-notes)
+- **Development Site (this repo)**: [https://Scratch-project.github.io/school-notes-dev](https://Scratch-project.github.io/school-notes-dev)
+- **Production Site**: [https://Scratch-project.github.io/school-notes](https://Scratch-project.github.io/school-notes)
 
 ## 🚧 Development Purpose
 
@@ -51,7 +63,7 @@ This development site automatically builds and deploys to GitHub Pages on push t
 ### Local Development
 ```bash
 # Clone the development repository
-git clone https://github.com/YOUR-USERNAME/school-notes-dev.git
+git clone https://github.com/Scratch-project/school-notes-dev.git
 cd school-notes-dev
 
 # Install dependencies

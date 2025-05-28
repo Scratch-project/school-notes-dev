@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "YOUR-USERNAME.github.io/school-notes-dev",
+    baseUrl: "Scratch-project.github.io/school-notes-dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
