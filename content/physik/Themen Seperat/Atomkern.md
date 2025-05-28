@@ -12,7 +12,7 @@ Polonium strahlt Alphateilchen in Form von Heliumkernen aus. Diese Partikel habe
 
 #### Beobachtung von Radium am Elektroskop
 
-![Image](../Materiellen/Elektroskop.jpeg)
+![Image](./Materiellen/Elektroskop.jpeg)
 
 Sobald die *Radiumprobe in die Nähe des Tellers* gebracht wird, kann man beobachten, dass sich *das positiv oder negativ geladene Elektroskop langsam oder schnell entlädt, je nach Intensität der Strahlung*. Dies zeigt den Verlust der elektrischen Ladung, unabhängig davon, ob sie positiv oder negativ ist.
 
@@ -35,10 +35,10 @@ Die *Strahlung* radioaktiver Stoffe *überträgt Energie auf Atome* und Molekül
 ### Aufbau
 
 Das Geiger-Müller-Zählrohr wird zur Detektion ionisierender Strahlung (z. B. Alpha-, Beta- oder Gamma-Strahlung) eingesetzt. Die Funktion basiert auf der *Ionisation eines Füllgases, wodurch elektrische Impulse entstehen, die gezählt werden können*.
-![Image](../Materiellen/Screenshot%202025-02-16%20at%2014.03.27.png)
+![Image](./Materiellen/Screenshot%202025-02-16%20at%2014.03.27.png)
 *(Das obere Zeichnen können ist wichtig)* 
 
-![Image](../Materiellen/GMZ.png)
+![Image](./Materiellen/GMZ.png)
 • **Anode:** Ein positiv geladener Draht in der Mitte des Zählrohrs.
 
 • **Kathode:** Der negativ geladene Zylinder, der die Außenwand (Metallmantel) des Zählrohrs bildet.
@@ -79,7 +79,7 @@ Das Geiger-Müller-Zählrohr wird zur Detektion ionisierender Strahlung (z. B. A
 
 #### Zählrohrcharakteristik – Kennlinie
 *(Rede lieber von Elektronen)*
-![Image](../Materiellen/Zählrohrcharakteristik.png)
+![Image](./Materiellen/Zählrohrcharakteristik.png)
 Die Kennlinie zeigt die Stromstärke in Abhängigkeit von der Zählrohrspannung.
 
   
@@ -326,7 +326,7 @@ Durch Auftragung von $\ln N(t)$ gegen $t$ ergibt sich eine Gerade mit der Steigu
 
 
 
-![Image](../Materiellen/Screenshot%202025-02-16%20at%2017.32.25.png)
+![Image](./Materiellen/Screenshot%202025-02-16%20at%2017.32.25.png)
 
 Hinweise:
 - Zählrate ist kleiner da nicht jeder Zerfall erfasst wird wegen (Messverluste, Abschirmung, Detektoreffizienz)
@@ -461,7 +461,7 @@ Wenn eine Diode in *Sperrrichtung* geschaltet wird, entsteht eine breite *ladung
 ### Energiespektrum
 
 (Der Graph zu den Zerfalls Produkte bei der Kalibrierung gehört einen bestimmten ZerfallsNuklid und die Produkte aber es zeichnet dann nur eine bestimmte Zerfallsart. Also wenn es um die Alpha Zerfällen einer Nuklid geht, dann kann ich die Beta Zerfälle nicht am Graph sehen und darum dann bei der Zerfallsreihe interessiert mich nur die Alpha Zerfälle und deren Energiewerte.)
-![Image](../Materiellen/Screenshot%202025-02-15%20at%2012.47.20.png)
+![Image](./Materiellen/Screenshot%202025-02-15%20at%2012.47.20.png)
 Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern nur die Nummer eines Kanals. (Analogievergleich zu Röntgenröhre Lambda-n Graph) Wir müssen also die Energie pro Kanal bestimmen (Kalibrierung).
 - Jeder Kanal bestimmt einen Energiebereich durch $E=E_{proKanal}\cdot Kanal_{\operatorname{nummer}}$.
 - Der Spannungshöhen Analysator ordnet dann jeder Spannungsimpuls einen bestimmten Kanal zu und die zählt wie oft diesen Spannungsimpuls registriert wurde.
@@ -484,7 +484,7 @@ Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern
 
 #### Bragg-Kurve:
 
-![Image](../Materiellen/Screenshot%202025-02-15%20at%2011.57.18.png)
+![Image](./Materiellen/Screenshot%202025-02-15%20at%2011.57.18.png)
 **Beschreibung:**
 - *Zuerst geringer Energieverlust*: Am Anfang verliert das Teilchen *wenig Energie pro Strecke*.
 - Mit zunehmender Strecke steigt die *Ionisationsdichte*, da die Teilchen langsamer werden und somit mehr Energie pro Strecke abgeben können.
@@ -505,7 +505,7 @@ Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern
 
 ## Quantisierung der Gesamtenergie von Nukleonen im eindimensionalen Potenzialtopf
 
-![Image](../Materiellen/Screenshot%202025-03-11%20at%2012.11.37.png)
+![Image](./Materiellen/Screenshot%202025-03-11%20at%2012.11.37.png)
 
 ### Grundlagen des eindimensionalen Potenzialtopfmodells
 
@@ -587,8 +587,8 @@ Wenn eine Probe zwei radioaktive Nuklide mit unterschiedlichen Halbwertszeiten e
 
 ##### **Zerfallsreihe mit Reaktionsgleichung**
 
-![Image](../Materiellen/Screenshot%202025-02-12%20at%2023.06.17.png)
-![Image](../Materiellen/Screenshot%202025-02-12%20at%2023.07.03.png)
+![Image](./Materiellen/Screenshot%202025-02-12%20at%2023.06.17.png)
+![Image](./Materiellen/Screenshot%202025-02-12%20at%2023.07.03.png)
 
 
 ##### **Erläutere, warum die Zählrate auch ohne Absorption mit zunehmender Entfernung vom Präparat geringer wird**
@@ -613,14 +613,14 @@ https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufg
 
 ##### **Energiespektrum von Alphastrahlung**
 
-![Image](../Materiellen/Screenshot%202025-02-15%20at%2013.24.19.png)
+![Image](./Materiellen/Screenshot%202025-02-15%20at%2013.24.19.png)
 
 
-![Image](../Materiellen/r-E%20Diagramm.png)
+![Image](./Materiellen/r-E%20Diagramm.png)
 - Die Energie nimmt mit steigendem Abstand ab, da die α-Teilchen auf ihrem Weg Energie durch Wechselwirkungen mit dem Medium (Luft oder anderes Material) verlieren. 
 - Wenn sich die Energie null nähert, erreichen die α-Teilchen ihre Reichweite, daher deren gesamte Energie wird an die Luft Moleküle übertragen.
 
-![Image](../Materiellen/bc279ea42653ed42a5786cad9043236b78614231929d7594d29e449e9741dd5f.png)
+![Image](./Materiellen/bc279ea42653ed42a5786cad9043236b78614231929d7594d29e449e9741dd5f.png)
 Delta E/Delta r kommen aus zwei aufeinanderfolgender Werte der jeweiligen Größe.
 
 |                |                            |

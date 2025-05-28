@@ -4,7 +4,7 @@ Welcome to my comprehensive school notes website! This site contains organized s
 
 ## Available Subjects
 
-### 🔬 [Physics](physics/)
+### 🔬 [Physics](physik/)
 Complete physics notes including:
 - Nuclear physics and atomic structure
 - Wave mechanics and oscillations

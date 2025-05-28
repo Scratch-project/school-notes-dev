@@ -24,9 +24,9 @@ Das Elektroskop ist elektrisch neutral und *ermöglicht die Einschätzung der La
 Die Bestimmung der Art der Ladung erfolgt durch die Aufladung des Elektroskops mit Elektronen. Somit stoßen sich die Metallteilen ab. Dann bei Annäherung eines negativ geladenen Objektes, erhöht sich die Abstößungskraft und bei eines positiv geladenen Objekts erniedrigt sich diese, sodass die Metallteilen sich nähren.
 
 Wenn man das Objekt vom Teller annähert, lässt den aber nicht anfassen, spricht man von (Mehr dazu später bei Faraday-Käfig)
-[[../Materiellen/Influenz.html]]
+[[./Materiellen/Influenz.html]]
 
-![Image](../Materiellen/Elektroskop.png)
+![Image](./Materiellen/Elektroskop.png)
 
 
 
@@ -82,13 +82,13 @@ Wenn ein leitender Faraday-Käfig von einem elektrischen Feld umgeben ist, reagi
 * Die Feldlinien müssen die Polen berühren.
 * Die Feldlinien dürfen sich nicht kreuzen.
 ###### Zwei ausgedehnte parallele Pole
-![Image](../Materiellen/Zwei%20ausgedehnte%20parallele%20Pole.png)
+![Image](./Materiellen/Zwei%20ausgedehnte%20parallele%20Pole.png)
 ###### Zwei punktuelle Pole
-![Image](../Materiellen/Zwei%20punktuelle%20Pole.png)
+![Image](./Materiellen/Zwei%20punktuelle%20Pole.png)
 ###### Kreis und ausgedehnter Pole
 
-![Image](../Materiellen/Kreis%20und%20ausgedehter%20Pole.png)
-![Image](../Materiellen/Abschirmung%20eines%20elektrischen%20Feldes.png)
+![Image](./Materiellen/Kreis%20und%20ausgedehter%20Pole.png)
+![Image](./Materiellen/Abschirmung%20eines%20elektrischen%20Feldes.png)
 
 
 
@@ -181,7 +181,7 @@ wobei:
 
 Alle Punkte auf Äquipotenziallinien und -flächen haben das gleiche elektrische Potenzial. Sie stehen senkrecht zu den elektrischen Feldlinien. Es ist keine Energie erforderlich, um Ladungen auf ihnen zu verschieben. Das bedeutet, dass die Spannung zwischen zwei Punkten, die auf einer Äquipotenziallinie liegen, hier null ist
 
-![Image](../Materiellen/Screenshot%202025-03-01%20at%2015.08.59.png)
+![Image](./Materiellen/Screenshot%202025-03-01%20at%2015.08.59.png)
 
 # Die Kapazität eines Kondensators
 Siehe [[Protokoll Beispiel/Die Kapazität eines Kondensators (Protokoll)]]
@@ -195,14 +195,14 @@ Einsatzmöglichkeit in technischen Systemen:
 
 ##### Beschreibung
 
-![Image](../Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
+![Image](./Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
 
 Durch die Schalterstellung A wird der Kondensator mit Kapazität $C$ aufgeladen. Befindet sich der Schalter in Stellung E, ist der Kondensator nicht mehr mit der Quelle $U$ verbunden, sondern mit dem Widerstand $R$. Er entlädt sich durch den Stromfluss durch den Widerstand, was zum Ladungsausgleich zwischen den Platten führt. Mithilfe eines Messverstärkers wertet man den Spannungsverlauf $U(t)$ aus.
 
 _Hinweis_: Je kleiner die Kapazität, desto schneller verläuft die Entladung und die Aufladung. (Eine kleinere Kapazität führt zu einem kleineren Produkt R · C, was bedeutet, dass die Exponentialfunktion schneller gegen den Endwert läuft. Daher steigt die Spannung beim Laden schneller oder sinkt die Spannung beim Entladen schneller.)
 ##### Aufladung
 
-![Image](../Materiellen/Aufladung.png)
+![Image](./Materiellen/Aufladung.png)
 
 Durch das Anlegen einer Spannung entsteht ein elektrisches Feld zwischen den Kondensatorplatten, wobei sich eine Platte positiv und die andere negativ auflädt. Zu Beginn des Ladevorgangs ist die Spannung am Kondensator null, da noch keine Ladung gespeichert ist, und der Stromfluss ist maximal. Während der Aufladung sammelt sich zunehmend Ladung auf den Platten, wodurch die Kondensatorspannung steigt. Diese Spannung wirkt als Gegenspannung zur Quellenspannung und verringert den Stromfluss allmählich. Da die Stromstärke mit der Zeit exponentiell abnimmt, verlangsamt sich auch die Spannungsänderung, bis die Kondensatorspannung schließlich der Quellenspannung entspricht und kein Strom mehr fließt – der Kondensator ist nun vollständig aufgeladen. $$U_C(t) = U_0 \left( 1 - e^{-\frac{t}{R\cdot C}} \right)$$
   wobei:
@@ -215,7 +215,7 @@ Durch das Anlegen einer Spannung entsteht ein elektrisches Feld zwischen den Kon
 --> Spannung, Ladung und Stromstärke für Aufladung und Entladung stehen in der Formelsammlung.
 ##### Entladung
 
-![Image](../Materiellen/Entladung.png)
+![Image](./Materiellen/Entladung.png)
 
 Wird der Kondensator über einen Widerstand entladen, fließen die gespeicherten Elektronen von der negativen zur positiven Platte, wodurch der Ladungsunterschied allmählich ausgeglichen wird. Zu Beginn der Entladung ist der Stromfluss maximal, da die Kondensatorspannung ihren höchsten Wert hat. Während der Entladung nimmt die Spannung jedoch exponentiell ab, wodurch auch der Stromfluss kontinuierlich kleiner wird. Da die Kondensatorspannung die treibende Kraft des Stroms ist, führt ihr exponentieller Abfall dazu, dass sich der Stromfluss ebenfalls exponentiell verringert, bis schließlich keine Ladung mehr fließt und der Kondensator vollständig entladen ist. $$U\left(t\right)=U_0\cdot e^{-\frac{t}{R\cdot C}}$$wobei:
 * $U(t)$ die Spannung in Abhängigkeit von der Zeit in (*V*) ist.
@@ -242,7 +242,7 @@ Beim glühelektrischen Effekt werden Elektronen durch Erwärmung aus einer Heizk
 
 *Hint:* Wehnelt-Zylinder erzeugt eine elektrische Anziehungskraft auf die Elektronen, die dazu führt, dass sie einen fokussierten Strahl bilden, bevor sie durch das Beschleunigungsfeld beschleunigt werden.
 
-![Image](../Materiellen/Bewegte%20Elektronen%20im%20elektrischen%20Feld-%20Die%20Elektronenstrahlablenkröhre.png)
+![Image](./Materiellen/Bewegte%20Elektronen%20im%20elektrischen%20Feld-%20Die%20Elektronenstrahlablenkröhre.png)
 
 Aus der Glühkathode werden Elektronen durch den *glühelektrischen Effekt* emittiert. Dies geschieht, indem die Kathode durch Heizspannung erhitzt wird, wodurch Elektronen genügend Energie erhalten, um die Kathodenoberfläche zu verlassen. Die Elektronen werden dann durch eine *Beschleunigungsspannung* hin zur *Anode* beschleunigt. Danach durchlaufen die Elektronen mit konstanter Geschwindigkeit das elektrische Feld eines *Plattenkondensators*, wobei eine *elektrische Kraft* auf die Elektronen ausgeübt wird, die zu einer Ablenkung des Strahls führt. Die *Richtung* und *Stärke* der Ablenkung hängen von der Polarität der Platten, die Geschwindigkeit der Elektronen und der *Stärke des elektrischen Feldes* ab.
 

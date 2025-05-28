@@ -2,7 +2,7 @@
 ### Einstieg Wellen
 
 Die einzigen Oszillatoren sind die Träger der Wellen und nur durch Kopplung kann Energie übertragen werden und somit entstehen Wellen.
-![Image](../Materiellen/Kopplung.jpg)
+![Image](./Materiellen/Kopplung.jpg)
 
 #### Grundlegende Begriffe
 
@@ -52,7 +52,7 @@ $$s\left(X,t\right)=A\cdot\sin\left\lbrack2\pi\left(\frac{t}{T}-\frac{X}{\lambda
 - $t$ -> Zeit
 - $X$ -> Ort bzw. Position
 
-![Image](../Materiellen/Wellengleichung.png)
+![Image](./Materiellen/Wellengleichung.png)
 
 
 
@@ -167,7 +167,7 @@ $$l=n\cdot\frac{\lambda}{2}$$
 Der Abstand zweier Knoten beträgt immer: 
 $$\frac{\lambda}{2}$$
 
-![Image](../Materiellen/Bestimmung%20der%20Schallgeschwendigkeit.jpeg)
+![Image](./Materiellen/Bestimmung%20der%20Schallgeschwendigkeit.jpeg)
 
 ### Reflexion am losen Ende
 Bei Reflexion am losen Ende bilden sich stehende Wellen aus, wenn die l des Mediums ein ungerades Vielfaches der viertel Wellenlänge aufweist:
@@ -243,7 +243,7 @@ Die Hauptunterschiede zwischen Doppelspalt und Gitter sind:
 **Subjektive Beobachtungsmethode**: Der Beobachter schaut direkt durch das **Gitter**, und ein Maßstab wird hinter das Muster gesetzt, um die Abstände grob zu messen.
 ### Geometrische Beziehungen (Für kleine Winkel $\alpha$)
 
-![Image](../Materiellen/Doppelspalt%20und%20winkeln.png)
+![Image](./Materiellen/Doppelspalt%20und%20winkeln.png)
 Für kleine Winkel gilt: $\tan(\alpha) \approx \sin(\alpha)$
 
 
@@ -281,13 +281,13 @@ Für Spaltabstand $g$ viel kleiner als Abstand zum Schirm $L$ gilt:
 
 #### *Herleitung:*
 
-![Image](../Materiellen/IMG_0259.png)
-![Image](../Materiellen/IMG_0261.png)
+![Image](./Materiellen/IMG_0259.png)
+![Image](./Materiellen/IMG_0261.png)
 
 ### Bragg-Reflexion
 
 
-![Image](../Materiellen/IMG_0260%201.png)
+![Image](./Materiellen/IMG_0260%201.png)
 - Reflexion von Wellen an Netzebenen eines Kristalls
 - Bragg-Bedingung: $$2 \cdot d \cdot \sin(\theta) = k \cdot \lambda$$ $d$ = Netzebenenabstand [m] 
   $\theta$ = Glanzwinkel [rad] 

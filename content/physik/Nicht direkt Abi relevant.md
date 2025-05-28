@@ -90,7 +90,7 @@ Die Bewegung der Elektronen in einem elektrischen Feld wird durch verschiedene S
 Das Massenspektrometer dient der Unterscheidung zwischen Ionen unterschiedlicher Massen bzw. spezifischer Ladungen.
 ### Skizze
 
-![Image](../Materiellen/Massenspektrometer-Skizze.png)
+![Image](./Materiellen/Massenspektrometer-Skizze.png)
 
 ### Erklärung
 Zunächst werden Atome oder Moleküle ionisiert und anschließend durch das elektrische Feld zur Lochanode hin beschleunigt. Die beschleunigten Ionen durchlaufen anschließend den **Wien-Filter**, der aus einem **Plattenkondensator** und einem senkrecht dazu gerichteten **Magnetfeld** besteht.
@@ -101,19 +101,19 @@ Nur Ionen mit einer bestimmten Geschwindigkeit, für die elektrische Kraft und L
 
 ### Formlen
 
-![Image](../Materiellen/Massenspektrometer-Formlen.png)
+![Image](./Materiellen/Massenspektrometer-Formlen.png)
 - Formel für Masse, q oder v werden umgeformt.
 
 
 
 ## Das Helmholz-Spulenpaar (Nicht Abi relevant)
 
-![Image](../Materiellen/Das%20Helmholz-Spulenpaar.jpeg)
+![Image](./Materiellen/Das%20Helmholz-Spulenpaar.jpeg)
 
 ### Formeln
 
-![Image](../Materiellen/B-Feld%20von%20Helmholz-spulenpaar.png)
+![Image](./Materiellen/B-Feld%20von%20Helmholz-spulenpaar.png)
 
 ## Zyklotron (Nicht Abi Relevant) 
 
-![Image](../Materiellen/Zyklotron-PDF.pdf)
+![Image](./Materiellen/Zyklotron-PDF.pdf)

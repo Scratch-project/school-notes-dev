@@ -13,7 +13,7 @@ wobei:
 
 
 ## Radius zur Fadenstrahlrohr und spezifische Ladung sind nicht enthalten.
-- ![Image](../Materiellen/spezifische%20Ladung%20Formlen.png)
+- ![Image](./Materiellen/spezifische%20Ladung%20Formlen.png)
 - $r = \frac{m \cdot v}{q \cdot B}$
 
 
