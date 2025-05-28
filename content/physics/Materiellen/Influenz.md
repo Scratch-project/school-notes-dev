@@ -1,0 +1,1 @@
+Bei Influenz werden keine Elektronen übergeben, sondern nur Ladungsverschiebungen werden vorgenommen.
