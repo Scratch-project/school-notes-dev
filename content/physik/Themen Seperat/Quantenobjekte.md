@@ -7,10 +7,10 @@ Alles was so  *Beispiel*  geschrieben ist, ist eine der Kernaussagen!!
 - **Ionisation durch Licht:** Wenn Licht mit einer geeigneten Wellenlänge auf ein Material trifft, kann es Elektronen aus den Atomen herauslösen, indem es das Atom ionisiert. Die Wellenlänge des Lichts muss ausreichend kurz sein, um genug Energie zu übertragen, um die Elektronen zu lösen.
 #### 2. Erläuterung des Graphen zur Elektronenemission
 (Photonen werden von der Lampe emittiert und gelangen zur Zn-Platte)
-![[12-Semster-1/Physik LK/Materiellen/Versuch zum Hallwachseffect.png| 650]]
+![Image](../Materiellen/Versuch%20zum%20Hallwachseffect.png)
 
 Verlauf der Stromstärke nach Einwirkung von Licht
-![[12-Semster-1/Physik LK/Materiellen/Elektronenemission durch Lichtstrahlung.png| 800]]
+![Image](../Materiellen/Elektronenemission%20durch%20Lichtstrahlung.png)
 
 **Teil 1: Beschleunigung der Elektronen**
 - Elektronen werden von der Kathode in verschiedene Richtungen und mit unterschiedlichen Geschwindigkeiten emittiert. Bei einer erhöhten Spannung werden pro Zeiteinheit mehr Elektronen zur Anode gelangen. Dies geschieht, weil die Geschwindigkeits- und Orientierungsunterschiede durch die höhere Energie bei höhere Spannung ausgeglichen werden.
@@ -43,12 +43,12 @@ Verlauf der Stromstärke nach Einwirkung von Licht
 - **Versuch mit umgekehrter Feldrichtung:** Um die Energie der emittierten Elektronen zu überprüfen, kann ein Experiment durchgeführt werden, bei dem das elektrische Feld so eingestellt wird, dass es den Elektronen entgegenwirkt. Nur die energiereichsten Elektronen erreichen die Anode. Das dient als Filter zu den energiereichen Elektronen und somit können wir wirklich überprüfen, ob Blaues Licht wirklich energiereicher als grünes oder rotes ist.
 
 *Sehr guter Versuch um Energie der Wellenlängen zu untersuchen oder Geschwindigkeit der Elektronen zu bestimmen*
-![[12-Semster-1/Physik LK/Materiellen/Gegenfeldmethode.png| 800]]
+![Image](../Materiellen/Gegenfeldmethode.png)
 Licht gelangt zur Kathode und löst dabei Elektronen die zur Anode bewegt werden. Dabei wird eine Gegenspannung erhöht bis der Photostrom Null erreicht. 
 
 - **Ergebnis:** Je kleiner die Wellenlänge des Lichts, desto höher muss die entgegengesetzte Spannung sein, um den Stromfluss zu blockieren. Dies zeigt, dass *kürzere Wellenlängen mehr Energie (haben) oder (auf die Elektronen übertragen können)*.
 	- Dies bestätigt die vorherige Vermutungen aus 3. und besagt, dass es *eine bestimmte Grenzfrequenz gibt, ab der ein Photonen genug Energie hat, um ein Elektron auszulösen. Diese Grenzfrequenz ist vom Material abhängig. Beim verlassen des Materials wird eine Energie die vom Material abhängig benötigt, um Stoße im Material zu überwinden. Dies wird als die Material abhängige Austrittsarbeit $W_{a}$ bezeichnet.* 
-		![[12-Semster-1/Physik LK/Materiellen/verschiedene Materialien bei Grenzfrequenz.gif| 400]]
+		![Image](../Materiellen/verschiedene%20Materialien%20bei%20Grenzfrequenz.gif)
 			**X-Achsenabschnitt:**
 				  - Der Schnittpunkt der Geraden mit der X-Achse gibt die sogenannte **Grenzfrequenz** an. Diese Frequenz ist die mindest Frequenz des einfallenden Lichts, bei der gerade noch Elektronen aus der Oberfläche des Materials herausgelöst werden können. Bei Frequenzen unterhalb dieser Grenzfrequenz reicht die Energie der Photonen nicht aus, um Elektronen zu emittieren. 
 				  - Mathematisch entspricht dies der Bedingung, bei der die kinetische Energie null ist, d.h.
@@ -72,7 +72,7 @@ $$E_{\text{kin, max}} = h \cdot f - W_a$$
 ##### Gegenfeldmethode Mit Kondensator
 
 - **Gegenfeldmethode (mit Kondensator):** Durch das einfallende Licht auf die Kathode werden durch den *Photoeffekt Elektronen freigesetzt*, die Richtung Anode hin beschleunigt werden. Dort führen sie zur *Ladungstrennung im Kondensator*, wodurch sich eine Spannung aufbaut. Mit längerer Bestrahlung der Kathode *steigt die Kondensatorspannung* weiter an und erzeugt eine Gegenspannung. Diese *Gegenspannung* wirkt dem Elektronenstrom entgegen und erhöht sich, bis sie der *maximalen kinetischen Energie der Elektronen* entspricht. Sobald diese *Grenzspannung* erreicht ist, wird der Photostrom null.
-![[12-Semster-1/Physik LK/Materiellen/Gegenfeldmethode mit Kondensator.png]]
+![Image](../Materiellen/Gegenfeldmethode%20mit%20Kondensator.png)
 
 - **Berechnung der kinetischen Energie:** Die kinetische Energie der schnellsten Elektronen kann dann durch
 $$E_{\text{kin}}=e\cdot U_{gegenspannung}=h\cdot f-W_{a}$$
@@ -98,7 +98,7 @@ $$c=\lambda\cdot f$$
 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Zwei Wege für h-Bestimmung.png]]
+![Image](../Materiellen/Zwei%20Wege%20für%20h-Bestimmung.png)
 In dieser Abbildung gibt's zwei Wege zur H-Bestimmung (Hier ist die allgemeine Energie gemeint und nicht die maximale kinetische Energie!)
 
 - **Einheitenumrechnung:** Um die Energie in Joule umzurechnen, muss $E_{kin}$ mit (1,6 * 10^-19) multipliziert werden.
@@ -110,11 +110,11 @@ In dieser Abbildung gibt's zwei Wege zur H-Bestimmung (Hier ist die allgemeine E
 
 Reine Entstehung ohne Erklärung wieso entstehen Röntgenstrahlung 
 (Polung muss umgedreht bei $U_H$)
-![[12-Semster-1/Physik LK/Materiellen/Röntgenstrahlung- Entstehung.png]]
+![Image](../Materiellen/Röntgenstrahlung-%20Entstehung.png)
 
 ##### Erklärung
 
-![[12-Semster-1/Physik LK/Materiellen/Bremsspektrum.png]]
+![Image](../Materiellen/Bremsspektrum.png)
 
 
 **Einführung in die Röntgenstrahlung:**
@@ -153,7 +153,7 @@ Der dargestellte Graph zeigt die Intensität der Röntgenstrahlung in Abhängigk
 
 ###### **1. Bestimmung der Wellenlänge der Röntgenstrahlung mit der Drehkristallmethode**
 
-![[12-Semster-1/Physik LK/Materiellen/bragg-Gleichung-Herleitung.png]]
+![Image](../Materiellen/bragg-Gleichung-Herleitung.png)
 in der Abbildung soll jetzt eigentlich bei den orangenfarbigen Welle eine halbe Wellenlänge da sein, damit wir auf die zwei bei der Formel kommen.
 
 **Grundprinzip:**
@@ -175,14 +175,14 @@ $$7,079\times10^{-11}\,\text{m     bis  }7,16\times10^{-11}\,\text{m}$$
 
 Grundprinzip:
 Die Grenzwellenlänge der Röntgenstrahlung entsteht in einer Röntgenröhre, wenn Elektronen durch unelastische Stoße mit den Atomkernen ihre komplette kinetische Energie in Form von Photonen abgeben.
-![[12-Semster-1/Physik LK/Materiellen/Bragg-Bedingung.png]]
+![Image](../Materiellen/Bragg-Bedingung.png)
 Es geht um die schnellsten Elektronen, die ihre volle Energie im Form von Photonen abgeben.
 
 
 ##### *Seite 223 ist wichtig als Übung!*
 #### 8. Entstehung der Debye-Scherrer-Ringe (d bestimmen)
 
-![[12-Semster-1/Physik LK/Materiellen/Debye-Scherrer_Ringe_Bild.jpg]]
+![Image](../Materiellen/Debye-Scherrer_Ringe_Bild.jpg)
 - **Grundprinzip:** (Wie kommt es zu dieser hellen Kreisen ?)
   Wenn Röntgenstrahlung auf eine Folie mit Kristallpulver trifft, wird die Strahlung an den *einzelnen Kristallfragmenten gebeugt*. Hinter der Folie, auf einem Röntgenfilm, entsteht ein *Interferenzmuster in Form von Kreisen mit unterschiedlichen Radien*. 
 
@@ -194,7 +194,7 @@ Es geht um die schnellsten Elektronen, die ihre volle Energie im Form von Photon
 
 ##### Wichtige Formeln im Debye-Scherrer-Verfahren
 
-![[12-Semster-1/Physik LK/Materiellen/Skizze zur Debye-Scherre-Ringe.png]]
+![Image](../Materiellen/Skizze%20zur%20Debye-Scherre-Ringe.png)
 1. **Bragg-Gleichung:**$$ n \cdot \lambda=2\cdot d \cdot \sin(\theta) $$
    - **d**: Abstand der Netzebenen im Kristall
    - **θ**: Beugungswinkel
@@ -226,7 +226,7 @@ Es geht um die schnellsten Elektronen, die ihre volle Energie im Form von Photon
 
 ##### Elektronenbeugung
 
-![[12-Semster-1/Physik LK/Materiellen/Elektronen Beugungsröhre.png| 900]]
+![Image](../Materiellen/Elektronen%20Beugungsröhre.png)
 
 
 
@@ -409,7 +409,7 @@ Koinzidenz bezieht sich auf die gleichzeitige Registrierung von Photonen durch z
 
 ##### Aufbau des Mach-Zehnder-Interferometers
 
-![[12-Semster-1/Physik LK/Materiellen/Mach-Zehnder-Interferometer.png| 800]]
+![Image](../Materiellen/Mach-Zehnder-Interferometer.png)
 -  **Komponenten**: Laserquelle, Strahlteiler, Spiegel, Schirm/Detektor.
 - **Funktionsweise**:
 	- Der Laserstrahl wird durch einen **Strahlteiler** in zwei Wege (Weg A und Weg B) aufgeteilt.
@@ -433,7 +433,7 @@ Koinzidenz bezieht sich auf die gleichzeitige Registrierung von Photonen durch z
 		
 		Am **Detektor 1** treffen die Strahlen hingegen mit einer **Phasenverschiebung** von $\pi$ (Pfad a) und (Pfad b) ein. Aufgrund des Phasenunterschieds von kommt es hier zu **destruktiver Interferenz**, und der Detektor bleibt dunkel.
 - **Michelson Interferometer** hat einen regelbaren Schirm, wodurch den Phasensprung nach Wunsch angepasst werden kann, wobei eine Verschiebung der Schirm um einen Viertel der Wellenlänge, verursacht eine Verschiebung um die halbe Wellenlänge, da der Weg hin und zurück ist. 
-	  ![[12-Semster-1/Physik LK/Materiellen/Michelson Interferometer.png| 800]]
+	  ![Image](../Materiellen/Michelson%20Interferometer.png)
 
 
 ##### Interferenz mit einzelnen Photonen
@@ -502,6 +502,6 @@ Zwei komplementäre Größen wie Ort und Impuls können in der Quantenmechanik n
 Ein anschauliches Beispiel hierfür ist das Einzelspaltexperiment. Werden Elektronen durch einen Spalt der Breite x geschickt, zeigt sich hinter dem Spalt eine Streuung der Impulse, die durch die Standardabweichung beschrieben wird. Verkleinert man die Breite  des Spalts, nimmt die Streuung der Impulse – und damit die Standardabweichung – zu. Umgekehrt vergrößert man die Breite des Spaltes nimmt die Impulsstreuung ab. Diese Beobachtung illustriert, dass es grundsätzlich unmöglich ist, Quantenobjekte in einen Zustand zu bringen, in dem die Messwerte von Ort und Impuls (oder anderen komplementären Größen)  kleinere Streuungen aufweisen, als durch den folgenden Formel erlaubt ist.
 $$\Delta x\cdot\Delta p_{x}\ge\frac{h}{4\pi}$$
 #### Aufgaben
-[[12-Semster-1/Physik LK/Materiellen/AB Fotoeffekt Gegenfeldmethode mit Kondensator 1.pdf]]
-[[12-Semster-1/Physik LK/Materiellen/Fotoeffekt Versuch Gegenfeldmethode 2.pdf]]
-[[12-Semster-1/Physik LK/Materiellen/calculations_merged.pdf]]
+[[Materiellen/AB Fotoeffekt Gegenfeldmethode mit Kondensator 1.pdf]]
+[[Materiellen/Fotoeffekt Versuch Gegenfeldmethode 2.pdf]]
+[[Materiellen/calculations_merged.pdf]]

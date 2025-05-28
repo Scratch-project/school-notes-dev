@@ -15,10 +15,10 @@ $$ \int |\Psi|^2 \, dV = 1 $$
 #### Definition:  
 
   - Potenzialverlauf: Zwischen $x = 0$ und $x = a$ liegt konstante Energie.  
-  ![[12-Semster-1/Physik LK/Materiellen/Beispiel Atomdarstellung mit der Breite a.png| 600]]
+  ![Image](../Materiellen/Beispiel%20Atomdarstellung%20mit%20der%20Breite%20a.png)
   - Wände bei $x = 0$ und $x = a$: Potenzial $V(x) \to \infty$ (Potentielle Energie gegen unendlich bei den Wände).  
   - *Innerhalb des Topfs* wird das *Elektron* mit Hilfe der *Wellenfunktion einer stehenden Welle* (breitet sich also mit einer ganzzahliges vielfaches der halben Wellenlänge) beschrieben, wobei die *Energie* durch die *verschiedenen Schwingungen* *dargestellt* werden kann (Grundschwingung und Oberschwingungen, siehe Foto).
-	  ![[12-Semster-1/Physik LK/Materiellen/Wellenfunktion und Wahrscheinlichkeitsdichte.png| 800]]
+	  ![Image](../Materiellen/Wellenfunktion%20und%20Wahrscheinlichkeitsdichte.png)
 	  -> Mit diesem Modell können wir also die *verschiedenen Energiezustände eines Elektrons durch verschiedenen $|\Psi(x)|^2$ Graphen darstellen.* Daraus ergibt sich, dass die *unterschiedlichen Energiezustände zu unterschiedlichen Wahrscheinlichkeitsverteilungen* führen. 
 	  
 	  Aus dem Bild sieht mann, dass das Energiezustand mit $n = 1$ wahrscheinlicher in der Mitte ist und bei $n = 2$ liegt die Wahrscheinlichkeit ehr weiter vom Mitte entfernt.
@@ -31,7 +31,7 @@ $$ \int |\Psi|^2 \, dV = 1 $$
 	  - Die Wände des Potentialtopfs sind nur eine Vereinfachung, die unendlich lang sind und darum wird unendliche kinetische Energie nötig, um die zu überwinden (Ziel: undurchgänglich für das Elektron zu sein)
   - *Im Bereich $a$ sind die Elektronen delokalisiert.*
 	  - Aber Elektronen werden hier bei dieser Schreibweise innerhalb eines bestimmten Molekül als Lokalisiert aufgefasst, wobei dies die Realität nicht entspricht (Siehe Foto: Cyanin-Farbstoff).
-	  ![[12-Semster-1/Physik LK/Materiellen/Beispiel Atomdarstellung.png|600]]
+	  ![Image](../Materiellen/Beispiel%20Atomdarstellung.png)
 
 ---
 
@@ -121,7 +121,7 @@ $$m_{e}\cdot r_{n}\cdot v_{n}=\frac{n\cdot h}{2\cdot\pi}$$
 
 3. Für die Frequenz gilt $\frac{E}{h}$  und das bedeutet, dass es genau die obige Formel sein wird, außer $h^2$ wird $h^3$ und der Vorfaktor der Formel mit $h^3$ nennt man Rydberg-Konstante und somit ist die Frequenz: $$f = f_{Ry} \cdot \left( \frac{1}{m^2} - \frac{1}{n^2} \right)$$
    Dies ist die Frequenz der Spektrallinien (Linienspektrum und ist charakteristisch für jedes Atom und die verschiedenen Linien werden gruppiert und als Serie bezeichnet und darum gibt es verschiedenen Serien) des Wasserstoffatoms. Mithilfe das Atommodell von Bohr können dann jede Spektrallinie einer Energiedifferenz zweier Energieniveaus.
-   ![[12-Semster-1/Physik LK/Materiellen/Energieniveauschema des Wasserstoffatoms.png| 400]]
+   ![Image](../Materiellen/Energieniveauschema%20des%20Wasserstoffatoms.png)
   
 
 ### Grenzen dieses Modell
@@ -141,10 +141,10 @@ $$m_{e}\cdot r_{n}\cdot v_{n}=\frac{n\cdot h}{2\cdot\pi}$$
 ## Resonanzfluoreszenz, Fluoreszenz und Phosphoreszenz:
 
 ### Resonanzfluoreszenz:
-Atome wie Natriumatome in einer Natriumdampflampe emittieren aufgrund energetischer Anregung Licht mit einem Linienspektrum. Die Natriumatome im Dampf, die durch den Gasbrenner erzeugt wird, absorbieren nur die Photonen mit genau der Wellenlänge, die die Energie besitzt, um die Natriumatome auf ein höheres Energieniveau anzuheben. Nach einer kurzer Zeit von etwa $10^{-8}$ Sekunden emittieren die Atome diese Photonen wieder in alle Richtungen, während sie in den Grundzustand zurückkehren (Resonanzabsorption: Atome absorbieren genau jene Energiequanten $E = h \cdot f$, die sie auch wieder emittieren). Diese Emission in alle Richtungen führt dazu, dass hinter der Flamme ein erheblicher Teil der Lichtintensität fehlt, wodurch ein Schatten entsteht. ![[12-Semster-1/Physik LK/Materiellen/Experiment 1 bei Resonanzfloureszent.png| 600]]
+Atome wie Natriumatome in einer Natriumdampflampe emittieren aufgrund energetischer Anregung Licht mit einem Linienspektrum. Die Natriumatome im Dampf, die durch den Gasbrenner erzeugt wird, absorbieren nur die Photonen mit genau der Wellenlänge, die die Energie besitzt, um die Natriumatome auf ein höheres Energieniveau anzuheben. Nach einer kurzer Zeit von etwa $10^{-8}$ Sekunden emittieren die Atome diese Photonen wieder in alle Richtungen, während sie in den Grundzustand zurückkehren (Resonanzabsorption: Atome absorbieren genau jene Energiequanten $E = h \cdot f$, die sie auch wieder emittieren). Diese Emission in alle Richtungen führt dazu, dass hinter der Flamme ein erheblicher Teil der Lichtintensität fehlt, wodurch ein Schatten entsteht. ![Image](../Materiellen/Experiment%201%20bei%20Resonanzfloureszent.png)
 
 Im zweiten Experiment können die Natriumatome im Dampf, der durch den Gasbrenner erzeugt wird, die Photonen der Quecksilberdampflampe nicht absorbieren, da die Quecksilberdampflampe ein anderes Linienspektrum besitzt, das keine Photonen mit den exakt benötigten Wellenlängen zur Anregung der Natriumatome enthält. Somit findet keine Resonanzabsorption statt, das Licht der Lampe passiert die Flamme ungehindert, und es entsteht kein Schatten auf dem Schirm, da die ursprüngliche Lichtintensität nicht vermindert wird.
-![[12-Semster-1/Physik LK/Materiellen/Experiment 2 bei Resonanzfloureszent.png| 600]]
+![Image](../Materiellen/Experiment%202%20bei%20Resonanzfloureszent.png)
 
 - Ein Beispiel für Resonanzfluoreszenz:
 	Das Licht der Sonne besitzt ein kontinuierliches Spektrum, das jedoch beim Messen viele Absorptionslinien zeigt. Dies liegt daran, dass bestimmte Wellenlängen von Gasen in der Erdatmosphäre und der Sonnenatmosphäre absorbiert werden.
@@ -203,7 +203,7 @@ Ein Beispiel für Phosphoreszenz sind **leuchtende Sterne** auf Kinderzimmerdeck
 ## Franck-Hertz-Versuch
 
 Versuchsskizze: ([Simulation](https://www.kippenbergs.de/de/mint-franckhertz))
-![[12-Semster-1/Physik LK/Materiellen/Frank-Hertz-Versuch.png| 800]]
+![Image](../Materiellen/Frank-Hertz-Versuch.png)
 $U_G$ : Gegenspannung, um den Stromfluss zu verringern
 Die Geschwindigkeit durch das Gleichsetzen von $E_{kin}$ & $E_{el}$ 
 Gitter dient als Anode
@@ -217,7 +217,7 @@ Durch die Erhöhung der Spannung steigt die Stromstärke auch an. Bis zu einer b
 ### Erklärung
 
 
-![[12-Semster-1/Physik LK/Materiellen/U-I Diagramm zur Frank-Hertz.png|1000]]
+![Image](../Materiellen/U-I%20Diagramm%20zur%20Frank-Hertz.png)
 
 - **Elastische Stöße**, bei denen das Elektron praktisch keine Energie verliert, so dass es im Regelfall genügend Energie besitzt um die kleine Gegenspannung zur Anode zu überwinden. $E_{kin}= h*f < E_{2}- E_1$ 
 $E_1$ = Energie des Atoms in dem Grundzustand
@@ -258,7 +258,7 @@ Nach Erreichen des zweiten Maximums befindet sich die erste Anregungszone etwa i
   - Mehr Energie lässt auch dasselbe Elektron mehrmals Atome anregen, wodurch mehr Elektronen ohne Anregung die Auffängerelektrode erreichen. 
   - Die Stromstärke sinkt nicht vollständig auf den gleichen Wert wie bei vorherigen Minima. 
   5- Unterschiede zwischen der Anregung mit Photonen und Elektronen im Frank-Hertz-Versuch:
-  ![[12-Semster-1/Physik LK/Materiellen/Screenshot 2024-12-23 at 19.42.55.png| 600]]
+  ![Image](../Materiellen/Screenshot%202024-12-23%20at%2019.42.55.png)
 
 
 ## Röntgenstrahlung - Charakteristische Strahlung mit Linienspektrum
@@ -272,7 +272,7 @@ Beispiele für Übergänge: (muss man erwähnen bei einer detaillierten Erkläru
 
 • **K$_\beta$-Strahlungslinie**: Übergang von der M-Schale zur K-Schale.
 
-![[12-Semster-1/Physik LK/Materiellen/Graph zu Intensität und Lambda von Röntgenstrahlung.png|600]]
+![Image](../Materiellen/Graph%20zu%20Intensität%20und%20Lambda%20von%20Röntgenstrahlung.png)
 
 ### wichtige Hinweise:
 - Die Energie der K$_\alpha$-Strahlung ist kleiner als die der K$_\beta$-Strahlung, da die K$_\alpha$-Linie bei einer größeren Wellenlänge liegt, was größere Winkel bedeutet. (Über die Beziehung $n \cdot \lambda = 2d \cdot \sin(\theta)$)
@@ -310,7 +310,7 @@ Hierbei sind:
 
 ## Erweiterung des Atommodells, Orbitale, Pauli-Prinzip (nicht so wichtig)
 
-![[12-Semster-1/Physik LK/Materiellen/Orbitale und Quantenzahlen SuS.pdf]]
+![Image](../Materiellen/Orbitale und Quantenzahlen SuS.pdf)
 
 Wir müssen nur bis Seite 4 können, ist aber generell sehr unwahrscheinlich..versuch aber dazu Aufgaben in den Abi Aufgaben zu finden.
 ### Orbitale und Nachweiswahrscheinlichkeiten
@@ -323,7 +323,7 @@ Wir müssen nur bis Seite 4 können, ist aber generell sehr unwahrscheinlich..ve
 	- magnetische Quantenzahl -> $m$ (bestimmt der räumliche Struktur der Orbitale)
 	Wobei gilt $(m <= l <= n-1)$
 
-![[12-Semster-1/Physik LK/Materiellen/Orbitale des Wasserstoffatoms.png| 350]]
+![Image](../Materiellen/Orbitale%20des%20Wasserstoffatoms.png)
 
 ### Erweiterung des Potentialtopfmodells: (Sehr unwahrscheinlich in der Abitur)
 

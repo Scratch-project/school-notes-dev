@@ -1,7 +1,7 @@
 
 ## Die fünf Systeme der Braun´sche Röhre
 
-[[12-Semster-1/Physik LK/Materiellen/Stunde 10 die Braun´sche Röhre 23_24.pdf]]
+[[Materiellen/Stunde 10 die Braun´sche Röhre 23_24.pdf]]
 ### Emittierendes & Bündelendes System (1- & 2-System)
 
 1. **Kathode und Elektronenemission**
@@ -90,7 +90,7 @@ Die Bewegung der Elektronen in einem elektrischen Feld wird durch verschiedene S
 Das Massenspektrometer dient der Unterscheidung zwischen Ionen unterschiedlicher Massen bzw. spezifischer Ladungen.
 ### Skizze
 
-![[12-Semster-1/Physik LK/Materiellen/Massenspektrometer-Skizze.png]]
+![Image](../Materiellen/Massenspektrometer-Skizze.png)
 
 ### Erklärung
 Zunächst werden Atome oder Moleküle ionisiert und anschließend durch das elektrische Feld zur Lochanode hin beschleunigt. Die beschleunigten Ionen durchlaufen anschließend den **Wien-Filter**, der aus einem **Plattenkondensator** und einem senkrecht dazu gerichteten **Magnetfeld** besteht.
@@ -101,19 +101,19 @@ Nur Ionen mit einer bestimmten Geschwindigkeit, für die elektrische Kraft und L
 
 ### Formlen
 
-![[12-Semster-1/Physik LK/Materiellen/Massenspektrometer-Formlen.png]]
+![Image](../Materiellen/Massenspektrometer-Formlen.png)
 - Formel für Masse, q oder v werden umgeformt.
 
 
 
 ## Das Helmholz-Spulenpaar (Nicht Abi relevant)
 
-![[12-Semster-1/Physik LK/Materiellen/Das Helmholz-Spulenpaar.jpeg]]
+![Image](../Materiellen/Das%20Helmholz-Spulenpaar.jpeg)
 
 ### Formeln
 
-![[12-Semster-1/Physik LK/Materiellen/B-Feld von Helmholz-spulenpaar.png]]
+![Image](../Materiellen/B-Feld%20von%20Helmholz-spulenpaar.png)
 
 ## Zyklotron (Nicht Abi Relevant) 
 
-![[12-Semster-1/Physik LK/Materiellen/Zyklotron-PDF.pdf]]
+![Image](../Materiellen/Zyklotron-PDF.pdf)

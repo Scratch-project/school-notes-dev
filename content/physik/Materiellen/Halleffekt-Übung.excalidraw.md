@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-57b5e3e77a09de14ea74b702053f5c76be332a13: [[12-Semster-1/Physik LK/Materiellen/Halleffekt-H.A.jpg]]
+57b5e3e77a09de14ea74b702053f5c76be332a13: [[Materiellen/Halleffekt-H.A.jpg]]
 
 %%
 # Drawing

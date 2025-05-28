@@ -2,7 +2,7 @@
 ### Einstieg Wellen
 
 Die einzigen Oszillatoren sind die Träger der Wellen und nur durch Kopplung kann Energie übertragen werden und somit entstehen Wellen.
-![[12-Semster-1/Physik LK/Materiellen/Kopplung.jpg| 500]]
+![Image](../Materiellen/Kopplung.jpg)
 
 #### Grundlegende Begriffe
 
@@ -52,7 +52,7 @@ $$s\left(X,t\right)=A\cdot\sin\left\lbrack2\pi\left(\frac{t}{T}-\frac{X}{\lambda
 - $t$ -> Zeit
 - $X$ -> Ort bzw. Position
 
-![[12-Semster-1/Physik LK/Materiellen/Wellengleichung.png]]
+![Image](../Materiellen/Wellengleichung.png)
 
 
 
@@ -63,6 +63,83 @@ $$s\left(X,t\right)=A\cdot\sin\left\lbrack2\pi\left(\frac{t}{T}-\frac{X}{\lambda
 
 Polarisation bedeutet eine Welle *auf eine Ebene zu schränken*.
 
+<style>
+.responsive-table {
+    width: 100%;
+    overflow-x: auto;
+    margin: 1em 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.responsive-table table {
+    width: 100%;
+    min-width: 800px;
+    border-collapse: collapse;
+    background: white;
+}
+
+.responsive-table th,
+.responsive-table td {
+    padding: 12px 16px;
+    text-align: left;
+    border: 1px solid #e0e0e0;
+    word-wrap: break-word;
+    max-width: 300px;
+}
+
+.responsive-table th {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.responsive-table tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.responsive-table tr:hover {
+    background-color: #e3f2fd;
+    transition: background-color 0.2s ease;
+}
+
+@media (max-width: 768px) {
+    .responsive-table {
+        font-size: 14px;
+    }
+    
+    .responsive-table th,
+    .responsive-table td {
+        padding: 8px 12px;
+        max-width: 200px;
+    }
+}
+
+/* Scrollbar styling */
+.responsive-table::-webkit-scrollbar {
+    height: 8px;
+}
+
+.responsive-table::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.responsive-table::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+
+.responsive-table::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+</style>
+
+<div class="responsive-table">
+
 | **Eigenschaft**                                                           | **Longitudinale Wellen**                             | **Transversale Wellen**                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Schwingungsrichtung**                                                   | Parallel zur Ausbreitungsrichtung                    | Senkrecht zur Ausbreitungsrichtung                                                                                                                                                                                                 |
@@ -72,6 +149,8 @@ Polarisation bedeutet eine Welle *auf eine Ebene zu schränken*.
 | **Winkelabhängigkeit der Intensität (Experiment mit zwei Polarisatoren)** |                                                      | $0°: Maximale Intensität I = I_0$ <br>$30°: I = I_0 \cos^2(30^\circ) \approx 0.75 I_0$ <br>$45°: I = I_0 \cos^2(45^\circ) \approx 0.5 I_0$<br>$60°: I = I_0 \cos^2(60^\circ) \approx 0.25 I_0$ <br>$90°: Keine Intensität (I = 0)$ |
 | **Mathematische Interpretation der Intensität**                           |                                                      | $I \propto A^2$ → Intensität ist das Quadrat der Amplitude der Welle                                                                                                                                                               |
 | **Physikalische Erklärung**                                               | Energie breitet sich durch Druckunterschiede aus     | Polarisationsfilter reduzieren die Amplitude je nach Winkel                                                                                                                                                                        |
+
+</div>
 
 
 
@@ -88,7 +167,7 @@ $$l=n\cdot\frac{\lambda}{2}$$
 Der Abstand zweier Knoten beträgt immer: 
 $$\frac{\lambda}{2}$$
 
-![[12-Semster-1/Physik LK/Materiellen/Bestimmung der Schallgeschwendigkeit.jpeg]]
+![Image](../Materiellen/Bestimmung%20der%20Schallgeschwendigkeit.jpeg)
 
 ### Reflexion am losen Ende
 Bei Reflexion am losen Ende bilden sich stehende Wellen aus, wenn die l des Mediums ein ungerades Vielfaches der viertel Wellenlänge aufweist:
@@ -164,7 +243,7 @@ Die Hauptunterschiede zwischen Doppelspalt und Gitter sind:
 **Subjektive Beobachtungsmethode**: Der Beobachter schaut direkt durch das **Gitter**, und ein Maßstab wird hinter das Muster gesetzt, um die Abstände grob zu messen.
 ### Geometrische Beziehungen (Für kleine Winkel $\alpha$)
 
-![[12-Semster-1/Physik LK/Materiellen/Doppelspalt und winkeln.png| 600]]
+![Image](../Materiellen/Doppelspalt%20und%20winkeln.png)
 Für kleine Winkel gilt: $\tan(\alpha) \approx \sin(\alpha)$
 
 
@@ -202,13 +281,13 @@ Für Spaltabstand $g$ viel kleiner als Abstand zum Schirm $L$ gilt:
 
 #### *Herleitung:*
 
-![[12-Semster-1/Physik LK/Materiellen/IMG_0259.png| 400]]
-![[12-Semster-1/Physik LK/Materiellen/IMG_0261.png| 400]]
+![Image](../Materiellen/IMG_0259.png)
+![Image](../Materiellen/IMG_0261.png)
 
 ### Bragg-Reflexion
 
 
-![[12-Semster-1/Physik LK/Materiellen/IMG_0260 1.png| 600]]
+![Image](../Materiellen/IMG_0260%201.png)
 - Reflexion von Wellen an Netzebenen eines Kristalls
 - Bragg-Bedingung: $$2 \cdot d \cdot \sin(\theta) = k \cdot \lambda$$ $d$ = Netzebenenabstand [m] 
   $\theta$ = Glanzwinkel [rad] 
@@ -248,6 +327,6 @@ $c_{ph,2}$ = Phasengeschwindigkeit im Medium 2 [m/s]
 - Wenn der Abstand zwischen dem Schirm und dem Spalt vergrößert wird, dann sinkt die Intensität bzw. die Amplitude, da das Licht sich über eine größere Fläche verteilt und der Abstand zwischen den Maxima wird größer. 
 ## Aufgaben
 
-[[12-Semster-1/Physik LK/Materiellen/Übungsaufgaben zur Ausbreitung von Wellen2020.pdf]]
+[[Materiellen/Übungsaufgaben zur Ausbreitung von Wellen2020.pdf]]
 
-[[12-Semster-1/Physik LK/Materiellen/Ultraschall.pdf]]
+[[Materiellen/Ultraschall.pdf]]

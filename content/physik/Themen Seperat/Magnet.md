@@ -17,8 +17,8 @@ Keine Ahnung, ob das wichtig ist.
 
 ## Magnetfelder
 
-![[12-Semster-1/Physik LK/Materiellen/Stabmagnet.png| 500]]
-![[12-Semster-1/Physik LK/Materiellen/Felder_von_Dauermagneten.png]]
+![Image](../Materiellen/Stabmagnet.png)
+![Image](../Materiellen/Felder_von_Dauermagneten.png)
 1. **Additive Überlagerung (Nordpol an Südpol):** Wenn der Nordpol eines Magneten dem Südpol eines anderen Magneten angenähert wird, addieren sich die Magnetfelder. In diesem Fall verstärken sie sich gegenseitig, wodurch die kraft zwischen den Magneten zunimmt.
 
 2. **Subtraktive Überlagerung (Nordpol an Nordpol oder Südpol an Südpol):** Wenn der Nordpol eines Magneten dem Nordpol eines anderen Magneten oder der Südpol dem Südpol angenähert wird, subtrahieren sich die Magnetfelder. In diesem Fall schwächen sie sich gegenseitig ab, wodurch die kraft zwischen den Magneten verringert wird.
@@ -36,7 +36,7 @@ Keine Ahnung, ob das wichtig ist.
 
 ## Elektrische Strom erzeugen ein Magnetfeld (Draht & Spule)
 
-![[12-Semster-1/Physik LK/Materiellen/Elektrische Strom erzeugen Magnetfelder.png| 800]]
+![Image](../Materiellen/Elektrische%20Strom%20erzeugen%20Magnetfelder.png)
 
 - Wenn Strom durch einen Leiter fließt, bildet sich um ihn herum ein magnetisches Feld, dessen Feldlinien geschlossene Kreise um den Leiter herum bilden.
 
@@ -48,7 +48,7 @@ Keine Ahnung, ob das wichtig ist.
 
 ## Hufeisenmagnet (Leiterschaukelversuch)
 
-![[12-Semster-1/Physik LK/Materiellen/Hufeisenmagnet.png| 800]]
+![Image](../Materiellen/Hufeisenmagnet.png)
 
 Auf einem im Magnetfeld senkrecht zu den Feldlinien stehenden stromdurchflossenen Leiter, wirkt senkrecht zur Stromrichtung und senkrecht zur Magnetfeldrichtung eine Kraft. 
 - Die Kraft ist maximal, wenn die Elektronen Richtung senkrecht zu den magnetischen Feldlinien steht. 
@@ -97,7 +97,7 @@ Die Stromwaage misst die Kraft, die auf einen stromdurchflossenen Leiter in eine
 - Der Leiter ist Teil eines geschlossenen Stromkreises, durch den eine einstellbare Stromstärke $I$ fließt.
 - Die durch das Magnetfeld auf den Leiter ausgeübte Kraft wird mit der Waage gemessen.
 - Zur Untersuchung der Abhängigkeit der Kraft werden $I$ und die Leiterlänge $l$ variiert.
-![[12-Semster-1/Physik LK/Materiellen/Stromwaage.png| 500]]
+![Image](../Materiellen/Stromwaage.png)
 *Beobachtung*: 
 - Erhöht man die Stromstärke $I$, steigt auch die auf den Leiter wirkende Kraft.
 - Die Richtung der Kraft hängt von der Orientierung des Magnetfeldes und der Stromrichtung ab.
@@ -106,10 +106,10 @@ Die Stromwaage misst die Kraft, die auf einen stromdurchflossenen Leiter in eine
 Ein stromdurchflossener Leiter erzeugt ein eigenes Magnetfeld gemäß der **Linken-Faust-Regel**. Befindet sich der Leiter im Magnetfeld eines Elektromagneten, so überlagern sich die beiden Magnetfelder. Wenn die Magnetfelder in die gleiche Richtung zeigen, stoßen sie sich ab, wodurch der Leiter nach oben gedrückt wird. Sind die Magnetfelder entgegengesetzt ausgerichtet, ziehen sie sich an, und der Leiter wird nach unten gezogen.
 
 *Auswertung*:
-	 ![[12-Semster-1/Physik LK/Materiellen/Strom durchflossener Leiter im Magnetfeld.excalidraw]]
+	 ![Image](../Materiellen/Strom durchflossener Leiter im Magnetfeld.excalidraw)
 
 
-![[12-Semster-1/Physik LK/Materiellen/Lorentzkraft.png|500]]
+![Image](../Materiellen/Lorentzkraft.png)
 *Merke*: Ist ein stromdurchflossenen Leiter senkrecht zu einem Magnetfeld ausgerichtet, so wirkt auf diesem Leiter eine Lorentzkraft. 
 
 $$F_{L}=B\cdot I\cdot l$$
@@ -132,14 +132,14 @@ Für einen rechteckigen, stromdurchflossenen Leiter gilt:
 ### Elektronenstrahlablenkröhre
 Dies dient zur Nachweis von Lorentzkraft und der Elektronenbahn. 
 
-![[12-Semster-1/Physik LK/Materiellen/Elektronenstrahlablenkröhre.png]]
+![Image](../Materiellen/Elektronenstrahlablenkröhre.png)
 
 
 
 ## Der Halleffekt
 ### Beobachtung
 
-![[12-Semster-1/Physik LK/Materiellen/Hall-Skizze.jpg| 700]]
+![Image](../Materiellen/Hall-Skizze.jpg)
 
 - Auf ein Germanium Hallplättchen wird ein Magnet gestellt und ein Strom fließt durch das Plättchen. Eine Spannung ist messbar.
 - Je höher die Stromstärke, desto höher ist die Spannung, bei gleicher B-Feldstärke.
@@ -199,14 +199,14 @@ wobei:
 
 ### Formeln in Bildern mit Herleitung (Formel für Volumen) (Nicht wichtig)
 
-![[12-Semster-1/Physik LK/Materiellen/Herleitung von Hall-Effekt und Geschwendigkeit.png]]
-![[12-Semster-1/Physik LK/Materiellen/Hall-Spannung.jpg]]
+![Image](../Materiellen/Herleitung%20von%20Hall-Effekt%20und%20Geschwendigkeit.png)
+![Image](../Materiellen/Hall-Spannung.jpg)
 
 
-![[12-Semster-1/Physik LK/Materiellen/Hall-Ladungsträgerdichte.jpg]]
+![Image](../Materiellen/Hall-Ladungsträgerdichte.jpg)
 
 
-![[12-Semster-1/Physik LK/Materiellen/Hall-Volumen.jpg]]
+![Image](../Materiellen/Hall-Volumen.jpg)
 
 
 
@@ -215,7 +215,7 @@ wobei:
 
 
 ### Übung
-[[12-Semster-1/Physik LK/Materiellen/Halleffekt-Übung.excalidraw]]
+[[Materiellen/Halleffekt-Übung.excalidraw]]
 
 
 
@@ -224,9 +224,9 @@ wobei:
 
 ### Skizze
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-07 at 23.35.34.png|800]]
+![Image](../Materiellen/Screenshot%202025-03-07%20at%2023.35.34.png)
 
-![[12-Semster-1/Physik LK/Materiellen/Fadenstrahlrohr.png| 800]]
+![Image](../Materiellen/Fadenstrahlrohr.png)
 
 *Hints:*
 - Je größer die spezifische Ladung, desto stärker wird das Teilchen durch elektromagnetische Felder beeinflusst.
@@ -285,7 +285,7 @@ $$r = \frac{m \cdot v}{e \cdot B}$$
 ￼
 ### Aufgabe
 
-![[12-Semster-1/Physik LK/Materiellen/spezifische Ladung Aufgabe mit Lösung.png]]
+![Image](../Materiellen/spezifische%20Ladung%20Aufgabe%20mit%20Lösung.png)
 
 
 
@@ -302,7 +302,7 @@ $$r = \frac{m \cdot v}{e \cdot B}$$
 
 ### Skizze
 
-![[12-Semster-1/Physik LK/Materiellen/Wienfilter-Skizze.png| 700]]
+![Image](../Materiellen/Wienfilter-Skizze.png)
 
 ### Erklärung
 

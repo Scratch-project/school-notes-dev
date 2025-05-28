@@ -13,7 +13,7 @@ wie in Zahnbürste, Ampellanlagen, Kochherd, Fahrrad Dynamo
 
 ### Induktionsphänomen
 
-![[12-Semster-1/Physik LK/Materiellen/shared image.jpeg| 500]]
+![Induktionsphänomen](../Materiellen/shared-image.jpeg)
 
 
 Wenn ein *gerades Leiterstück* senkrecht zu den magnetischen Feldlinien bewegt wird, wirkt eine Lorentzkraft auf die Elektronen im Leiter. Die Lorentzkraft verschiebt die Elektronen im Leiter auf eine Seite des Leiters durch die Drei-Finger-Regel der linken Hand. Es kommt zur Ladungstrennung und somit entsteht ein elektrisches Feld. Eine Induktionsspannung ist dann an den enden des Leiters messbar.  In diesem E-Feld wirkt eine Kraft auf die Elektronen entgegengesetzt zu der Lorentzkraft bis die Ladungsverschiebung durch die Kräftegleichgewicht beendet wird. 
@@ -49,13 +49,12 @@ wobei:
 
 ### Skizzen zu unterschiedlichen Versuchen
 
-![[12-Semster-1/Physik LK/Materiellen/Skizze-Funktionsgenerator.png| 500]]
-^![[12-Semster-1/Physik LK/Materiellen/I und Feldspule.png| 500]]
+![Funktionsgenerator](../Materiellen/Skizze-Funktionsgenerator.png)
+![Feldspule](../Materiellen/I-und-Feldspule.png)
 
-![[12-Semster-1/Physik LK/Materiellen/Helmholz-Induktion.png| 500]]
+![Helmholz Induktion](../Materiellen/Helmholz-Induktion.png)
 
-
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-08 at 17.06.17.png| 500]]
+![Screenshot](../Materiellen/Screenshot-2025-03-08-at-17.06.17.png)
 	(Die Spule soll in einem Magnetfeld sein)
 	Schallwellen treffen auf die Membran des Mikrofons, wodurch sie in Schwingung versetzt wird. Die Membran ist mit einer Spule verbunden, die sich innerhalb eines Magnetfelds bewegt. Durch diese Bewegung ändert sich der magnetische Fluss durch die Spule, wodurch gemäß dem Induktionsgesetz eine elektrische Spannung erzeugt wird. Das erzeugte elektrische Signal entspricht der ursprünglichen Schallwelle und kann verstärkt werden.
 
@@ -76,7 +75,7 @@ wobei:
 
 Eigentlich müsste die Spule im Magnetfeld gedreht werden. Dies ist schwierig umzusetzen und darum ändern wir das B-Feld der Feldspule periodisch mit einer Kosinus Funktion. Die Induktionsspannung der Induktionsspule kann dann gemessen werden. 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-08 at 15.31.26.png| 600]]
+![Image](../Materiellen/Screenshot%202025-03-08%20at%2015.31.26.png)
 
 Deutung des Diagramms: 
 Die Induktionsspannung ist immer dann maximal, wenn die Änderung des B-Feldes der Feldspule maximal ist. 
@@ -93,7 +92,7 @@ $$U_{ind}=-n\cdot\left(\frac{d\left(B\cdot A\cdot\cos\alpha\right)}{dt}\right)$$
 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Magnetischer Fluss.pdf]]
+![Image](../Materiellen/Magnetischer Fluss.pdf)
 ## Die Lenzsche Regel
 ### Beobachtung
 
@@ -123,12 +122,12 @@ Induktivität L ↔ Kapazität C
 
 ### Experimente
 
-![[12-Semster-1/Physik LK/Materiellen/Selbstinduktion-Experiment 1.png| 500]]
+![Image](../Materiellen/Selbstinduktion-Experiment%201.png)
 Also mit dem Widerstand sind die Vorgänge schneller. Und mit Eisenkern sind die Vorgänge auch langsamer.
 
-![[12-Semster-1/Physik LK/Materiellen/Selbstinduktion-Experiment 2.png| 500]]
+![Image](../Materiellen/Selbstinduktion-Experiment%202.png)
 
-![[12-Semster-1/Physik LK/Materiellen/Induktionsspannung und Widerstand Graph.png| 600]]
+![Image](../Materiellen/Induktionsspannung%20und%20Widerstand%20Graph.png)
 ### Erklärung
 
 Beim Ein- und Ausschalten eines Stromkreises mit einer Spule kommt es zu schnellen Änderungen der Stromstärke $\Delta I / \Delta t$. Nach dem Induktionsgesetz
@@ -160,12 +159,12 @@ Die Induktivität kann also als das *Verhältnis* zwischen der *gespeicherten En
 
 
 Energie Richtung
-![[12-Semster-1/Physik LK/Materiellen/Selbstinduktion-Energie-Richtung.jpg| 500]]
+![Image](../Materiellen/Selbstinduktion-Energie-Richtung.jpg)
 
 ### Herleitung
 
 Beispiel für die Herleitung beiden Formeln:
-![[12-Semster-1/Physik LK/Materiellen/Selbstinduktion-Windungszahl und L Herleitung.jpeg|500]]
+![Image](../Materiellen/Selbstinduktion-Windungszahl%20und%20L%20Herleitung.jpeg)
 
 Hier muss der Wert für Ivont der gleiche X-wert wie Ipunkt haben. 
 

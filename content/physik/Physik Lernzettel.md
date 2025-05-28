@@ -7,7 +7,7 @@
 - Es gibt in Physik unendlich viele Formeln. Glücklicherweise müsst ihr fast keine Formeln auswendig lernen. Ihr werdet am Ende der 4 Semester weniger als 6 Formeln lernen müssen, da diese die einzigen sind, die nicht explizit oder in einer anderen Form in der Formelsammlung stehen. Alle anderen Formeln stehen entweder direkt in der Formelsammlung oder sind aus zwei Formeln in der Formelsammlung herzuleiten.
     - Was ihr aber können müsst, ist wirklich jede einzelne Formel zu verstehen und ihre Bedeutung auf die betrachteten Phänomene zu verstehen. Es gibt im Abitur Aufgaben, die Anforderungsbereich II oder sogar III abdecken, die durch das Verständnis der Bedeutung der Formel einfach werden. Der Einfluss der einzelnen Parameter einer Formel auf das Ergebnis und die Bedeutung und Begründung dessen ist etwas, was sehr viel Aufwand spart, wenn man es hinbekommt. Das ist also der wichtigste dieser Hinweise!
 - Denkt nicht viel darüber nach, ob ihr viele Skizzen auswendig lernen müsst oder nicht. Es gibt Klassiker, die wichtig zum Auswendiglernen sind. Ich kann zumindest sagen, dass alle Skizzen und Versuchsaufbauten, die hier zu finden sind, ausreichend sind, wenn man sie gelernt hat.
-- Jedes Jahr werden einige Unterthemen ausgeschlossen und dafür andere betrachtet. Für 2025 habe ich die nicht abiturrelevanten als solche in der Datei [[Palestine/12-Semster-1/Physik P2/Nicht direkt Abi relevant|Nicht direkt Abi relevant]] bezeichnet. Beachtet diese also, falls sie wieder für euer Jahr wichtig sind.
+- Jedes Jahr werden einige Unterthemen ausgeschlossen und dafür andere betrachtet. Für 2025 habe ich die nicht abiturrelevanten als solche in der Datei [[Nicht direkt Abi relevant|Nicht direkt Abi relevant]] bezeichnet. Beachtet diese also, falls sie wieder für euer Jahr wichtig sind.
 - Einige Themen sind kleiner als andere und brauchen somit weniger Zeit zum Lernen, lasst euch also davon nicht irritieren. Die Aufgaben in diesen Themen liegen also eher beim Rechnen und Untersuchen als beim Erklären und gedanklichen Arbeiten. Ein Beispiel ist Schwingung vs. Quantenobjekte.
 - Generell ist es möglich, dass an einigen Stellen etwas fehlt oder etwas mehr als erforderlich ist, aber ich bin ziemlich sicher, dass wenn man alles, was in diesem Lernzettel ist, VERSTEHT, es nicht schiefgehen kann ;)
 - Beim Vorbereiten auf Klausuren, seien es normale Klausuren oder die Abiturklausur, kann ich fürs Üben lediglich die Abituraufgaben empfehlen. Übt das, was im Buch ohne Lösungen steht, sowieso nicht und die anderen Aufgaben mit Lösungen oder Abiturvorbereitung nur, wenn ihr durch seid mit allen zur Verfügung stehenden Abituraufgaben. Die sind einfach das Beste, womit man sich vorbereiten kann, da es Abiturprüfungen sind. Im Abitur bekommt ihr also ähnliche Aufgaben und im Unterricht ist das Ziel des Lehrers, euch auf diese Aufgaben vorzubereiten, also übt genau diese! Wartet nicht bis kurz vor dem Physik-Abitur, um diese Aufgaben zu lösen!
@@ -41,9 +41,9 @@ Das Elektroskop ist elektrisch neutral und *ermöglicht die Einschätzung der La
 Die Bestimmung der Art der Ladung erfolgt durch die Aufladung des Elektroskops mit Elektronen. Somit stoßen sich die Metallteilen ab. Dann bei Annäherung eines negativ geladenen Objektes, erhöht sich die Abstößungskraft und bei eines positiv geladenen Objekts erniedrigt sich diese, sodass die Metallteilen sich nähren.
 
 Wenn man das Objekt vom Teller annähert, lässt den aber nicht anfassen, spricht man von (Mehr dazu später bei Faraday-Käfig)
-![[12-Semster-1/Physik LK/Materiellen/Influenz]]
+[[../Materiellen/Influenz.html]]
 
-![[12-Semster-1/Physik LK/Materiellen/Elektroskop.png| 400]]
+![Image](../Materiellen/Elektroskop.png)
 
 
 
@@ -99,13 +99,13 @@ Wenn ein leitender Faraday-Käfig von einem elektrischen Feld umgeben ist, reagi
 * Die Feldlinien müssen die Polen berühren.
 * Die Feldlinien dürfen sich nicht kreuzen.
 ###### Zwei ausgedehnte parallele Pole
-![[12-Semster-1/Physik LK/Materiellen/Zwei ausgedehnte parallele Pole.png]]
+![Image](../Materiellen/Zwei%20ausgedehnte%20parallele%20Pole.png)
 ###### Zwei punktuelle Pole
-![[12-Semster-1/Physik LK/Materiellen/Zwei punktuelle Pole.png]]
+![Zwei punktuelle Pole](../Materiellen/Zwei%20punktuelle%20Pole.png)
 ###### Kreis und ausgedehnter Pole
 
-![[12-Semster-1/Physik LK/Materiellen/Kreis und ausgedehter Pole.png]]
-![[12-Semster-1/Physik LK/Materiellen/Abschirmung eines elektrischen Feldes.png]]
+![Image](../Materiellen/Kreis%20und%20ausgedehter%20Pole.png)
+![Image](../Materiellen/Abschirmung%20eines%20elektrischen%20Feldes.png)
 
 
 
@@ -198,10 +198,10 @@ wobei:
 
 Alle Punkte auf Äquipotenziallinien und -flächen haben das gleiche elektrische Potenzial. Sie stehen senkrecht zu den elektrischen Feldlinien. Es ist keine Energie erforderlich, um Ladungen auf ihnen zu verschieben. Das bedeutet, dass die Spannung zwischen zwei Punkten, die auf einer Äquipotenziallinie liegen, hier null ist
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-01 at 15.08.59.png|500]]
+![Image](../Materiellen/Screenshot%202025-03-01%20at%2015.08.59.png)
 
 ## Die Kapazität eines Kondensators
-Siehe [[12-Semster-1/Physik LK/Protokoll Beispiel/Die Kapazität eines Kondensators (Protokoll)]] für ausführliche Untersuchung der Parametern.
+Siehe [[Protokoll Beispiel/Die Kapazität eines Kondensators (Protokoll)]] für ausführliche Untersuchung der Parametern.
 
 
 
@@ -257,14 +257,14 @@ Einsatzmöglichkeit in technischen Systemen:
 
 ##### Beschreibung
 
-![[12-Semster-1/Physik LK/Materiellen/Schaltung zur Aufladung und Messung der Entladung eines Kondensators.png| 600]]
+![Image](../Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
 
 Durch die Schalterstellung A wird der Kondensator mit Kapazität $C$ aufgeladen. Befindet sich der Schalter in Stellung E, ist der Kondensator nicht mehr mit der Quelle $U$ verbunden, sondern mit dem Widerstand $R$. Er entlädt sich durch den Stromfluss durch den Widerstand, was zum Ladungsausgleich zwischen den Platten führt. Mithilfe eines Messverstärkers wertet man den Spannungsverlauf $U(t)$ aus.
 
 _Hinweis_: Je kleiner die Kapazität, desto schneller verläuft die Entladung und die Aufladung. (Eine kleinere Kapazität führt zu einem kleineren Produkt R · C, was bedeutet, dass die Exponentialfunktion schneller gegen den Endwert läuft. Daher steigt die Spannung beim Laden schneller oder sinkt die Spannung beim Entladen schneller.)
 ##### Aufladung
 
-![[12-Semster-1/Physik LK/Materiellen/Aufladung.png| 600]]
+![Image](../Materiellen/Aufladung.png)
 
 Durch das Anlegen einer Spannung entsteht ein elektrisches Feld zwischen den Kondensatorplatten, wobei sich eine Platte positiv und die andere negativ auflädt. Zu Beginn des Ladevorgangs ist die Spannung am Kondensator null, da noch keine Ladung gespeichert ist, und der Stromfluss ist maximal. Während der Aufladung sammelt sich zunehmend Ladung auf den Platten, wodurch die Kondensatorspannung steigt. Diese Spannung wirkt als Gegenspannung zur Quellenspannung und verringert den Stromfluss allmählich. Da die Stromstärke mit der Zeit exponentiell abnimmt, verlangsamt sich auch die Spannungsänderung, bis die Kondensatorspannung schließlich der Quellenspannung entspricht und kein Strom mehr fließt – der Kondensator ist nun vollständig aufgeladen. $$U_C(t) = U_0 \left( 1 - e^{-\frac{t}{R\cdot C}} \right)$$
   wobei:
@@ -277,7 +277,7 @@ Durch das Anlegen einer Spannung entsteht ein elektrisches Feld zwischen den Kon
 --> Spannung, Ladung und Stromstärke für Aufladung und Entladung stehen in der Formelsammlung.
 ##### Entladung
 
-![[12-Semster-1/Physik LK/Materiellen/Entladung.png| 600]]
+![Image](../Materiellen/Entladung.png)
 
 Wird der Kondensator über einen Widerstand entladen, fließen die gespeicherten Elektronen von der negativen zur positiven Platte, wodurch der Ladungsunterschied allmählich ausgeglichen wird. Zu Beginn der Entladung ist der Stromfluss maximal, da die Kondensatorspannung ihren höchsten Wert hat. Während der Entladung nimmt die Spannung jedoch exponentiell ab, wodurch auch der Stromfluss kontinuierlich kleiner wird. Da die Kondensatorspannung die treibende Kraft des Stroms ist, führt ihr exponentieller Abfall dazu, dass sich der Stromfluss ebenfalls exponentiell verringert, bis schließlich keine Ladung mehr fließt und der Kondensator vollständig entladen ist. $$U\left(t\right)=U_0\cdot e^{-\frac{t}{R\cdot C}}$$wobei:
 * $U(t)$ die Spannung in Abhängigkeit von der Zeit in (*V*) ist.
@@ -304,7 +304,7 @@ Beim glühelektrischen Effekt werden Elektronen durch Erwärmung aus einer Heizk
 
 *Hint:* Wehnelt-Zylinder erzeugt eine elektrische Anziehungskraft auf die Elektronen, die dazu führt, dass sie einen fokussierten Strahl bilden, bevor sie durch das Beschleunigungsfeld beschleunigt werden.
 
-![[12-Semster-1/Physik LK/Materiellen/Bewegte Elektronen im elektrischen Feld- Die Elektronenstrahlablenkröhre.png| 500]]
+![Image](../Materiellen/Bewegte%20Elektronen%20im%20elektrischen%20Feld-%20Die%20Elektronenstrahlablenkröhre.png)
 
 Aus der Glühkathode werden Elektronen durch den *glühelektrischen Effekt* emittiert. Dies geschieht, indem die Kathode durch Heizspannung erhitzt wird, wodurch Elektronen genügend Energie erhalten, um die Kathodenoberfläche zu verlassen. Die Elektronen werden dann durch eine *Beschleunigungsspannung* hin zur *Anode* beschleunigt. Danach durchlaufen die Elektronen mit konstanter Geschwindigkeit das elektrische Feld eines *Plattenkondensators*, wobei eine *elektrische Kraft* auf die Elektronen ausgeübt wird, die zu einer Ablenkung des Strahls führt. Die *Richtung* und *Stärke* der Ablenkung hängen von der Polarität der Platten, die Geschwindigkeit der Elektronen und der *Stärke des elektrischen Feldes* ab.
 
@@ -337,8 +337,8 @@ ${E_{{\rm{pot,K}}}} = {E_{{\rm{kin,A}}}} \Leftrightarrow e \cdot {U_{\rm{B}}} = 
   
   ## Magnetfelder
 
-![[12-Semster-1/Physik LK/Materiellen/Stabmagnet.png| 500]]
-![[12-Semster-1/Physik LK/Materiellen/Felder_von_Dauermagneten.png]]
+![Image](../Materiellen/Stabmagnet.png)
+![Image](../Materiellen/Felder_von_Dauermagneten.png)
 1. **Additive Überlagerung (Nordpol an Südpol):** Wenn der Nordpol eines Magneten dem Südpol eines anderen Magneten angenähert wird, addieren sich die Magnetfelder. In diesem Fall verstärken sie sich gegenseitig, wodurch die kraft zwischen den Magneten zunimmt.
 
 2. **Subtraktive Überlagerung (Nordpol an Nordpol oder Südpol an Südpol):** Wenn der Nordpol eines Magneten dem Nordpol eines anderen Magneten oder der Südpol dem Südpol angenähert wird, subtrahieren sich die Magnetfelder. In diesem Fall schwächen sie sich gegenseitig ab, wodurch die kraft zwischen den Magneten verringert wird.
@@ -361,8 +361,8 @@ ${E_{{\rm{pot,K}}}} = {E_{{\rm{kin,A}}}} \Leftrightarrow e \cdot {U_{\rm{B}}} = 
 - Ein frei drehbares Magnet ist ein Kompass. Der Pole der zum geographischen Nordpol zeigt, heißt Nordpol (Rot), der nach Süden zeigt, heißt Südpol (grün).
 ## Magnetfelder
 
-![[12-Semster-1/Physik LK/Materiellen/Stabmagnet.png| 500]]
-![[12-Semster-1/Physik LK/Materiellen/Felder_von_Dauermagneten.png| 500]]
+![Image](../Materiellen/Stabmagnet.png)
+![Image](../Materiellen/Felder_von_Dauermagneten.png)
 1. **Additive Überlagerung (Nordpol an Südpol):** Wenn der Nordpol eines Magneten dem Südpol eines anderen Magneten angenähert wird, addieren sich die Magnetfelder. In diesem Fall verstärken sie sich gegenseitig, wodurch die kraft zwischen den Magneten zunimmt.
 
 2. **Subtraktive Überlagerung (Nordpol an Nordpol oder Südpol an Südpol):** Wenn der Nordpol eines Magneten dem Nordpol eines anderen Magneten oder der Südpol dem Südpol angenähert wird, subtrahieren sich die Magnetfelder. In diesem Fall schwächen sie sich gegenseitig ab, wodurch die kraft zwischen den Magneten verringert wird.
@@ -377,7 +377,7 @@ ${E_{{\rm{pot,K}}}} = {E_{{\rm{kin,A}}}} \Leftrightarrow e \cdot {U_{\rm{B}}} = 
 
 ## Elektrische Strom erzeugen ein Magnetfeld (Draht & Spule)
 
-![[12-Semster-1/Physik LK/Materiellen/Elektrische Strom erzeugen Magnetfelder.png| 800]]
+![Image](../Materiellen/Elektrische%20Strom%20erzeugen%20Magnetfelder.png)
 
 - Wenn Strom durch einen Leiter fließt, bildet sich um ihn herum ein magnetisches Feld, dessen Feldlinien geschlossene Kreise um den Leiter herum bilden.
 
@@ -389,7 +389,7 @@ ${E_{{\rm{pot,K}}}} = {E_{{\rm{kin,A}}}} \Leftrightarrow e \cdot {U_{\rm{B}}} = 
 
 ## Hufeisenmagnet (Leiterschaukelversuch)
 
-![[12-Semster-1/Physik LK/Materiellen/Hufeisenmagnet.png| 800]]
+![Image](../Materiellen/Hufeisenmagnet.png)
 
 Auf einem im Magnetfeld senkrecht zu den Feldlinien stehenden stromdurchflossenen Leiter, wirkt senkrecht zur Stromrichtung und senkrecht zur Magnetfeldrichtung eine Kraft. 
 - Die Kraft ist maximal, wenn die Elektronen Richtung senkrecht zu den magnetischen Feldlinien steht. 
@@ -438,7 +438,7 @@ Die Stromwaage misst die Kraft, die auf einen stromdurchflossenen Leiter in eine
 - Der Leiter ist Teil eines geschlossenen Stromkreises, durch den eine einstellbare Stromstärke $I$ fließt.
 - Die durch das Magnetfeld auf den Leiter ausgeübte Kraft wird mit der Waage gemessen.
 - Zur Untersuchung der Abhängigkeit der Kraft werden $I$ und die Leiterlänge $l$ variiert.
-![[12-Semster-1/Physik LK/Materiellen/Stromwaage.png| 500]]
+![Image](../Materiellen/Stromwaage.png)
 *Beobachtung*: 
 - Erhöht man die Stromstärke $I$, steigt auch die auf den Leiter wirkende Kraft.
 - Die Richtung der Kraft hängt von der Orientierung des Magnetfeldes und der Stromrichtung ab.
@@ -447,11 +447,11 @@ Die Stromwaage misst die Kraft, die auf einen stromdurchflossenen Leiter in eine
 Ein stromdurchflossener Leiter erzeugt ein eigenes Magnetfeld gemäß der **Linken-Faust-Regel**. Befindet sich der Leiter im Magnetfeld eines Elektromagneten, so überlagern sich die beiden Magnetfelder. Wenn die Magnetfelder in die gleiche Richtung zeigen, stoßen sie sich ab, wodurch der Leiter nach oben gedrückt wird. Sind die Magnetfelder entgegengesetzt ausgerichtet, ziehen sie sich an, und der Leiter wird nach unten gezogen.
 
 *Auswertung*:
- ![[12-Semster-1/Physik LK/Materiellen/Strom durchflossener Leiter im Magnetfeld.excalidraw]]
+ ![Image](../Materiellen/Strom%20durchflossener%20Leiter%20im%20Magnetfeld.excalidraw)
 
 ### Lorentzkraft
 
-![[12-Semster-1/Physik LK/Materiellen/Lorentzkraft.png|500]]
+![Image](../Materiellen/Lorentzkraft.png)
 *Merke*: Ist ein stromdurchflossenen Leiter senkrecht zu einem Magnetfeld ausgerichtet, so wirkt auf diesem Leiter eine Lorentzkraft. 
 
 $$F_{L}=B\cdot I\cdot l$$
@@ -474,14 +474,14 @@ Für einen rechteckigen, stromdurchflossenen Leiter gilt:
 ### Elektronenstrahlablenkröhre
 Dies dient zur Nachweis von Lorentzkraft und der Elektronenbahn. 
 
-![[12-Semster-1/Physik LK/Materiellen/Elektronenstrahlablenkröhre.png]]
+![Image](../Materiellen/Elektronenstrahlablenkröhre.png)
 
 
 
 ## Der Halleffekt
 ### Beobachtung
 
-![[12-Semster-1/Physik LK/Materiellen/Hall-Skizze.jpg| 700]]
+![Image](../Materiellen/Hall-Skizze.jpg)
 
 - Auf ein Germanium Hallplättchen wird ein Magnet gestellt und ein Strom fließt durch das Plättchen. Eine Spannung ist messbar.
 - Je höher die Stromstärke, desto höher ist die Spannung, bei gleicher B-Feldstärke.
@@ -541,19 +541,19 @@ wobei:
 
 ### Formeln in Bildern mit Herleitung (Formel für Volumen) (kommt selten vor, nur bei Interesse also Lernen)
 
-![[12-Semster-1/Physik LK/Materiellen/Herleitung von Hall-Effekt und Geschwendigkeit.png| 600]]
-![[12-Semster-1/Physik LK/Materiellen/Hall-Spannung.jpg| 600]]
-![[12-Semster-1/Physik LK/Materiellen/Hall-Ladungsträgerdichte.jpg| 600]]
-![[12-Semster-1/Physik LK/Materiellen/Hall-Volumen.jpg| 600]]
+![Image](../Materiellen/Herleitung%20von%20Hall-Effekt%20und%20Geschwendigkeit.png)
+![Image](../Materiellen/Hall-Spannung.jpg)
+![Image](../Materiellen/Hall-Ladungsträgerdichte.jpg)
+![Image](../Materiellen/Hall-Volumen.jpg)
 
 
 ## Fadenstrahlrohr 
 
 ### Skizze
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-07 at 23.35.34.png|800]]
+![Image](../Materiellen/Screenshot%202025-03-07%20at%2023.35.34.png)
 
-![[12-Semster-1/Physik LK/Materiellen/Fadenstrahlrohr.png| 800]]
+![Image](../Materiellen/Fadenstrahlrohr.png)
 
 *Hints:*
 - Je größer die spezifische Ladung, desto stärker wird das Teilchen durch elektromagnetische Felder beeinflusst.
@@ -612,14 +612,14 @@ $$r = \frac{m \cdot v}{e \cdot B}$$
 ￼
 ### Aufgabe (Abitur Aufgaben sind aber besser zum lernen)
 
-![[12-Semster-1/Physik LK/Materiellen/spezifische Ladung Aufgabe mit Lösung.png| 600]]
+![Image](../Materiellen/spezifische%20Ladung%20Aufgabe%20mit%20Lösung.png)
 
 
 ## Wienfilter
 
 ### Skizze
 
-![[12-Semster-1/Physik LK/Materiellen/Wienfilter-Skizze.png| 700]]
+![Image](../Materiellen/Wienfilter-Skizze.png)
 
 ### Erklärung
 
@@ -657,7 +657,7 @@ wie in Zahnbürste, Ampellanlagen, Kochherd, Fahrrad Dynamo
 
 ### Induktionsphänomen
 
-![[12-Semster-1/Physik LK/Materiellen/shared image.jpeg| 500]]
+![Image](../Materiellen/shared-image.jpeg)
 
 
 Wenn ein *gerades Leiterstück* senkrecht zu den magnetischen Feldlinien bewegt wird, wirkt eine Lorentzkraft auf die Elektronen im Leiter. Die Lorentzkraft verschiebt die Elektronen im Leiter auf eine Seite des Leiters durch die Drei-Finger-Regel der linken Hand. Es kommt zur Ladungstrennung und somit entsteht ein elektrisches Feld. Eine Induktionsspannung ist dann an den enden des Leiters messbar.  In diesem E-Feld wirkt eine Kraft auf die Elektronen entgegengesetzt zu der Lorentzkraft bis die Ladungsverschiebung durch die Kräftegleichgewicht beendet wird. 
@@ -693,13 +693,13 @@ wobei:
 
 ### Skizzen zu unterschiedlichen Versuchen
 
-![[12-Semster-1/Physik LK/Materiellen/Skizze-Funktionsgenerator.png| 500]]
-![[12-Semster-1/Physik LK/Materiellen/I und Feldspule.png| 500]]
+![Image](../Materiellen/Skizze-Funktionsgenerator.png)
+![Image](../Materiellen/I%20und%20Feldspule.png)
 
-![[12-Semster-1/Physik LK/Materiellen/Helmholz-Induktion.png| 500]]
+![Image](../Materiellen/Helmholz-Induktion.png)
 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-08 at 17.06.17.png| 500]]
+![Image](../Materiellen/Screenshot%202025-03-08%20at%2017.06.17.png)
 	(Die Spule soll in einem Magnetfeld sein)
 	Schallwellen treffen auf die Membran des Mikrofons, wodurch sie in Schwingung versetzt wird. Die Membran ist mit einer Spule verbunden, die sich innerhalb eines Magnetfelds bewegt. Durch diese Bewegung ändert sich der magnetische Fluss durch die Spule, wodurch gemäß dem Induktionsgesetz eine elektrische Spannung erzeugt wird. Das erzeugte elektrische Signal entspricht der ursprünglichen Schallwelle und kann verstärkt werden.
 
@@ -719,7 +719,7 @@ wobei:
 
 Eigentlich müsste die Spule im Magnetfeld gedreht werden. Dies ist schwierig umzusetzen und darum ändern wir das B-Feld der Feldspule periodisch mit einer Kosinus Funktion. Die Induktionsspannung der Induktionsspule kann dann gemessen werden. 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-08 at 15.31.26.png| 600]]
+![Image](../Materiellen/Screenshot%202025-03-08%20at%2015.31.26.png)
 
 Deutung des Diagramms: 
 Die Induktionsspannung ist immer dann maximal, wenn die Änderung des B-Feldes der Feldspule maximal ist. 
@@ -736,7 +736,7 @@ $$U_{ind}=-n\cdot\left(\frac{d\left(B\cdot A\cdot\cos\alpha\right)}{dt}\right)$$
 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Magnetischer Fluss.pdf]]
+![Image](../Materiellen/Magnetischer%20Fluss.pdf)
 ## Die Lenzsche Regel
 ### Beobachtung
 
@@ -766,10 +766,10 @@ Induktivität L ↔ Kapazität C
 
 ### Experimente
 
-![[12-Semster-1/Physik LK/Materiellen/Selbstinduktion-Experiment 1.png| 500]]
+![Image](../Materiellen/Selbstinduktion-Experiment%201.png)
 Also mit dem Widerstand sind die Vorgänge schneller. Und mit Eisenkern sind die Vorgänge auch langsamer.
-![[12-Semster-1/Physik LK/Materiellen/Selbstinduktion-Experiment 2.png| 500]]
-![[12-Semster-1/Physik LK/Materiellen/Induktionsspannung und Widerstand Graph.png| 500]]
+![Image](../Materiellen/Selbstinduktion-Experiment%202.png)
+![Image](../Materiellen/Induktionsspannung%20und%20Widerstand%20Graph.png)
 ### Erklärung
 
 Beim Ein- und Ausschalten eines Stromkreises mit einer Spule kommt es zu schnellen Änderungen der Stromstärke $\Delta I / \Delta t$. Nach dem Induktionsgesetz
@@ -801,7 +801,7 @@ Die Induktivität kann also als das *Verhältnis* zwischen der *gespeicherten En
 
 
 Energie Richtung
-![[12-Semster-1/Physik LK/Materiellen/Selbstinduktion-Energie-Richtung.jpg| 500]]
+![Image](../Materiellen/Selbstinduktion-Energie-Richtung.jpg)
 
 
 
@@ -841,15 +841,15 @@ Energie Richtung
 	  - wird als *Sinuskurve* dargestellt, da die Amplitude konstant bleibt.
 	  - und als *harmonische Schwingung* bezeichnet, wenn die äußere Kraft sinusförmig ist.
 
-- ![[12-Semster-1/Physik LK/Materiellen/Harmonische Schwingung.png| 500]]
+- ![Image](../Materiellen/Harmonische%20Schwingung.png)
 	- Warum eine Sinuskurve ?
 	Die Bewegung eines harmonischen Oszillators kann als **Sinuskurve** dargestellt werden, weil sie die **Projektion einer seitlich betrachteten Kreisbewegung** entspricht.
 	- *Versuch dazu:* Wird eine rotierende Masse von einer Lampe von der Seite aus angestrahlt, so gleicht die dann die eindimensionale Bewegung der Bewegung des harmonischen Oszillators. Somit ist es auch zulässig, dass der harmonische Oszillator (schwingungsfähiges System) als rotierender Zeiger oder als eine Sinus kurve betrachtet wird.  
-	 ![[12-Semster-1/Physik LK/Materiellen/Skizze zur Begründung der Sinuskruve bei harmonischen Oszillator.png| 500]]
+	 ![Image](../Materiellen/Skizze%20zur%20Begründung%20der%20Sinuskruve%20bei%20harmonischen%20Oszillator.png)
 
 ### Die Drei-Regel zur harmonischen Schwingung
 
-![[12-Semster-1/Physik LK/Materiellen/t-(s,v,a) Diagramme und Winkelgeschwindigkeit.png| 600]]
+![Image](../Materiellen/t-(s,v,a)%20Diagramme%20und%20Winkelgeschwindigkeit.png)
 
 Die **Rückstellkraft** $F(t)=−D⋅s(t)$ beschreibt die Kraft, die ein schwingungsfähiges System zurück in die Ruhelage bringt ($D=m\cdot\omega^2$ ist Richtgröße bzw. معيار wie Federkonstante). Sie ist **proportional** zur Auslenkung. Die Kraft muss immer zur Ruhelage zurückführen. (Bedingung einer mechanischen harmonischen Schwingung.) Diese Kraft führt zu einer **Beschleunigung** des Körpers, die durch das  $F=m⋅a$ beschrieben wird. Somit kann man beide Kräfte gleichsetzten und man erhält die **Differentialgleichung der harmonischen Schwingung:**
 - Zeit-Weg-Gesetz: $$s(t)=A \cdot sin(\omega\cdot t)$$
@@ -872,7 +872,7 @@ Hier gibt es nicht viel zu machen, außer diesen Größen auszuwerten mit den 5 
 
 ## Harmonische Schwingung am Fadenpendel
 
-![[12-Semster-1/Physik LK/Materiellen/Fadenpendel.jpg| 150]]
+![Image](../Materiellen/Fadenpendel.jpg)
 
 Kräfte beim Fadenpendel
 - **Gewichtskraft** $F_G = m\cdot g$ (zeigt nach unten und sorgt für Bewegung, aber nur zum Teil)
@@ -915,11 +915,11 @@ Sie lässt sich anhand $t$-$s$ & $t$ - $v$ Diagramm ableiten.
 Bei gedämpften Schwingungen nimmt die Amplitude exponentiell ab, wobei das Verhältnis zweier aufeinanderfolgender Amplituden konstant ist. Die Abnahme der Amplitude lässt sich durch $A(t) = A_0 e^{-\gamma \cdot t}$. Wobei $\gamma$ die Dämpfungskonstante in $\frac{1}{s}$ ist.
 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 16.43.34.png| 500]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2016.43.34.png)
 Die blaue Kurve zeigt den Verlauf der Auslenkung $s(t)$ einer gedämpften Schwingung in Abhängigkeit von der Zeit. Anfangs hat das System eine maximale Amplitude, aber aufgrund der Dämpfung nimmt die Amplitude mit der Zeit exponentiell ab. 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 16.43.48.png| 500]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2016.43.48.png)
 Die rote Kurve zeigt die Geschwindigkeit $v(t)$ der Schwingung in Abhängigkeit von der Zeit. Da die Geschwindigkeit die Ableitung des Weges ist, erreicht sie ihr Maximum immer dann, wenn die Auslenkung die Nullstelle passiert. Auch hier sieht man, dass die Amplitude der Geschwindigkeit mit der Zeit exponentiell abnimmt, was zeigt, dass die kinetische Energie durch Dämpfung (z. B. Reibung) verloren geht.
 
 
@@ -936,7 +936,7 @@ Schwingende Körper können durch eine *äußere Kraft* zu *erzwungenen Schwingu
 - Wenn die Amplitude durch Resonanz so stark ansteigt, dass das System zerstört wird, spricht man von einer *Resonanzkatastrophe*.
 - Resonanz kann durch Dämpfung oder Änderung der Erregerfrequenz erreicht.
 - Bei $f$-$\Delta ϕ$ (Frequenz-Phasendifferenz) Graph ist Resonanz bei einer Phasendifferenz von $\frac{\pi}{2}$ (ein Viertel-Periode) zu erkennen. Dies liegt daran, dass die Energieübertragung genau bei dieser Verschiebung maximal ist. (Beispiel einer Schaukel: mann schubst wenn der am Schaukeln die maximale Auslenkung erreicht, also die Geschwindigkeit null ist, und das ist genau eine Viertel-Periode).
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 17.17.31.png| 500]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2017.17.31.png)
 
 *Ein alltägliches Beispiel* 
 - **Schaukel**: Wenn Sie in der richtigen Frequenz (der Eigenfrequenz der Schaukel) schwingen, erreichen Sie die größte Höhe. Das ist die Resonanz. Schwingen Sie jedoch in einer anderen Frequenz, erreichen Sie nicht die maximale Höhe.
@@ -946,11 +946,11 @@ Schwingende Körper können durch eine *äußere Kraft* zu *erzwungenen Schwingu
 
 ### Skizze & Erklärung
 
-![[12-Semster-1/Physik LK/Materiellen/elektrischen Schwingkreis Schaltbild.jpg| 500]]
+![Image](../Materiellen/elektrischen%20Schwingkreis%20Schaltbild.jpg)
  
  
 Ein *Stromkreis*, der aus einem *Kondensator* und einer *Spule* besteht, wird als *elektrischer Schwingkreis* bezeichnet. In ihm kommt es *während der Entladung* zu *Schwingungen* der *Spannung am Kondensator* sowie der *Stromstärke in der Spule*. Beide Schwingungen sind um 90° gegeneinander versetzt. 
-![[12-Semster-1/Physik LK/Materiellen/Spannung und Stromverlauf beim Schwingkreis.png| 500]]
+![Image](../Materiellen/Spannung%20und%20Stromverlauf%20beim%20Schwingkreis.png)
 
 - Warum die 90° Versetzung ?
 	- Nachdem der **Kondensator vollständig geladen** wurde, beginnt die Schwingung. In diesem Moment ist die **Spannung am Kondensator maximal**, da er die gesamte elektrische Energie gespeichert hat. Da kaum Ladung fließt, ist die **Stromstärke nahezu null**. Die gesamte Energie des Systems liegt im **elektrischen Feld des Kondensators**. Sobald der Kondensator beginnt, sich zu entladen, bewegt sich Ladung durch den Schaltkreis. Dadurch steigt die **Stromstärke**, während die Spannung am Kondensator abnimmt. Gleichzeitig entsteht in der **Spule ein Magnetfeld**, da durch sie nun ein wachsender Strom fließt. Da sich das Magnetfeld aufbaut, tritt eine **Selbstinduktion** auf: Ein sich änderndes Magnetfeld erzeugt eine Gegenkraft, die den Stromfluss verzögert. Diese Verzögerung bewirkt, dass die **Stromstärke nicht gleichzeitig mit der Spannung ihr Maximum** erreichen kann. Wenn die **Spannung am Kondensator null ist**, ist zu diesem Zeitpunkt das **Magnetfeld der Spule maximal** und die gesamte Energie liegt in Form eines **magnetischen Feldes** in der Spule vor. Hier erreicht die Stromstärke ihrer Maximum und das Magnetfeld ist konstant. Danach beginnt das Magnetfeld der Spule sich abzubauen, wodurch der Stromfluss aufrechterhalten wird. Dies führt dazu, dass der **Kondensator nun in umgekehrter Polarität aufgeladen wird**. Während dieser Phase nimmt die Stromstärke wieder ab, da die Energie aus dem Magnetfeld der Spule in den Kondensator zurückgespeist wird. Sobald der Kondensator erneut vollständig geladen ist (aber mit umgekehrter Ladungsverteilung), erreicht die **Spannung wieder ihr Maximum, während die Stromstärke erneut null wird**.
@@ -963,25 +963,25 @@ Ein *Stromkreis*, der aus einem *Kondensator* und einer *Spule* besteht, wird al
 #### Erklärung des Spannungs- und Stromverlaufs
 (Für Analogie Betrachtung mit Feder-Masse-Pendel siehe Buch S.107)
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 17.51.27.png| 300]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2017.51.27.png)
 In einem elektromagnetischen Schwingkreis beginnt der Prozess mit einem vollständig geladenen Kondensator. Zu diesem Zeitpunkt ist die **Spannung am Kondensator maximal**, da er die gesamte elektrische Energie gespeichert hat. Da jedoch noch kaum Ladung durch den Stromkreis geflossen ist, ist die **Stromstärke nahezu null**.
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 17.51.48.png| 300]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2017.51.48.png)
 Sobald sich Ladung zu bewegen beginnt, nimmt die Stromstärke zu, während die Spannung am Kondensator abfällt. Ein Magnetfeld wird in der Spule erzeugt und durch Stromfluss Änderung ändert sich auch das Magnetfeld. Die Änderung des Magnetfeldes führt zur Induzierung einer Spannung, die die Änderung des Stromflusses hemmt. Je weiter sich der Kondensator entlädt, desto mehr elektrische Energie wird in magnetische Energie im B-Feld der Spule umgewandelt.
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 17.52.08.png| 300]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2017.52.08.png)
 Wenn der Kondensator vollständig entladen ist, erreicht der Stromfluss sein Maximum. Zu diesem Zeitpunkt ist die Spannung am Kondensator gleich null, da keine Ladung mehr gespeichert ist. Gleichzeitig ist das Magnetfeld am stärksten und die gesamte Energie ist in Form einer magnetische Energie. Das Magnetfeld ist aber konstant und somit gibt es keine Spannung in der Spule die den Stromfluss verzögert.
 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 17.52.22.png| 300]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2017.52.22.png)
  Der Kondensator wird nun mit umgekehrter Polarität aufgeladen. Während dieser Phase nimmt die Stromstärke wieder ab, da das Magnetfeld sich abbaut (Magnetfeldänderung führt zu Selbstinduktion, was den Stromfluss verzögert) und seine Energie wieder in den Kondensator zurückfließt.
 
- ![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 17.52.47.png| 300]]
+ ![Image](../Materiellen/Screenshot%202025-03-09%20at%2017.52.47.png)
 Schließlich stoppt der Stromfluss vollständig, wenn der Kondensator erneut seine maximale Ladung erreicht hat – allerdings mit umgekehrter Polarität. Hier befindet sich dann die gesamte Energie im elektrischen Feld des Kondensators. 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-09 at 17.53.31.png| 300]]
+![Image](../Materiellen/Screenshot%202025-03-09%20at%2017.53.31.png)
 Der Zyklus beginnt von Neuem, wobei der Stromfluss nun in die entgegengesetzte Richtung erfolgt. Der Vorgang wiederholt sich, solange keine äußere Dämpfung oder Widerstände die Schwingung abschwächen.
 
 
@@ -989,7 +989,7 @@ Der Zyklus beginnt von Neuem, wobei der Stromfluss nun in die entgegengesetzte R
 ### Frequenz, Kapazität und Induktivität in Schwingkreis (Formel)
 
 Zusammenhang zwischen der Frequenz $f$ und die Größen $L$ & $C$
-![[12-Semster-1/Physik LK/Materiellen/C zu f und L zu f.png| 600]]
+![Image](../Materiellen/C%20zu%20f%20und%20L%20zu%20f.png)
 
 Daraus folgt:$$f\varpropto\frac{1}{\sqrt{L}}$$$$f\varpropto\frac{1}{\sqrt{C}}$$Also lautet die thomsonsche Gleichung:
 $$f=\frac{1}{2\pi}\cdot\frac{1}{\sqrt{L\cdot C}}$$
@@ -1006,7 +1006,7 @@ $$T=2\cdot\pi\cdot\sqrt{L\cdot C}$$
 ### Einstieg Wellen
 
 Die einzigen Oszillatoren sind die Träger der Wellen und nur durch Kopplung kann Energie übertragen werden und somit entstehen Wellen.
-![[12-Semster-1/Physik LK/Materiellen/Kopplung.jpg| 500]]
+![Image](../Materiellen/Kopplung.jpg)
 
 #### Grundlegende Begriffe
 
@@ -1056,7 +1056,7 @@ $$s\left(X,t\right)=A\cdot\sin\left\lbrack2\pi\left(\frac{t}{T}-\frac{X}{\lambda
 - $t$ -> Zeit
 - $X$ -> Ort bzw. Position
 
-![[12-Semster-1/Physik LK/Materiellen/Wellengleichung.png]]
+![Image](../Materiellen/Wellengleichung.png)
 
 
 
@@ -1092,7 +1092,7 @@ $$l=n\cdot\frac{\lambda}{2}$$
 Der Abstand zweier Knoten beträgt immer: 
 $$\frac{\lambda}{2}$$
 
-![[12-Semster-1/Physik LK/Materiellen/Bestimmung der Schallgeschwendigkeit.jpeg]]
+![Image](../Materiellen/Bestimmung%20der%20Schallgeschwendigkeit.jpeg)
 
 ### Reflexion am losen Ende
 Bei Reflexion am losen Ende bilden sich stehende Wellen aus, wenn die l des Mediums ein ungerades Vielfaches der viertel Wellenlänge aufweist:
@@ -1168,7 +1168,7 @@ Die Hauptunterschiede zwischen Doppelspalt und Gitter sind:
 **Subjektive Beobachtungsmethode**: Der Beobachter schaut direkt durch das **Gitter**, und ein Maßstab wird hinter das Muster gesetzt, um die Abstände grob zu messen.
 ### Geometrische Beziehungen (Für kleine Winkel $\alpha$)
 
-![[12-Semster-1/Physik LK/Materiellen/Doppelspalt und winkeln.png| 600]]
+![Image](../Materiellen/Doppelspalt%20und%20winkeln.png)
 Für kleine Winkel gilt: $\tan(\alpha) \approx \sin(\alpha)$
 
 
@@ -1206,13 +1206,13 @@ Für Spaltabstand $g$ viel kleiner als Abstand zum Schirm $L$ gilt:
 
 #### *Herleitung:*
 
-![[12-Semster-1/Physik LK/Materiellen/IMG_0259.png| 400]]
-![[12-Semster-1/Physik LK/Materiellen/IMG_0261.png| 400]]
+![Image](../Materiellen/IMG_0259.png)
+![Image](../Materiellen/IMG_0261.png)
 
 ### Bragg-Reflexion
 
 
-![[12-Semster-1/Physik LK/Materiellen/IMG_0260 1.png| 600]]
+![Image](../Materiellen/IMG_0260%201.png)
 - Reflexion von Wellen an Netzebenen eines Kristalls
 - Bragg-Bedingung: $$2 \cdot d \cdot \sin(\theta) = k \cdot \lambda$$ $d$ = Netzebenenabstand [m] 
   $\theta$ = Glanzwinkel [rad] 
@@ -1262,10 +1262,10 @@ Alles was so  *Beispiel*  geschrieben ist, ist eine der Kernaussagen!!
 - **Ionisation durch Licht:** Wenn Licht mit einer geeigneten Wellenlänge auf ein Material trifft, kann es Elektronen aus den Atomen herauslösen, indem es das Atom ionisiert. Die Wellenlänge des Lichts muss ausreichend kurz sein, um genug Energie zu übertragen, um die Elektronen zu lösen.
 #### 2. Erläuterung des Graphen zur Elektronenemission
 (Photonen werden von der Lampe emittiert und gelangen zur Zn-Platte)
-![[12-Semster-1/Physik LK/Materiellen/Versuch zum Hallwachseffect.png| 650]]
+![Image](../Materiellen/Versuch%20zum%20Hallwachseffect.png)
 
 Verlauf der Stromstärke nach Einwirkung von Licht
-![[12-Semster-1/Physik LK/Materiellen/Elektronenemission durch Lichtstrahlung.png| 800]]
+![Image](../Materiellen/Elektronenemission%20durch%20Lichtstrahlung.png)
 
 **Teil 1: Beschleunigung der Elektronen**
 - Elektronen werden von der Kathode in verschiedene Richtungen und mit unterschiedlichen Geschwindigkeiten emittiert. Bei einer erhöhten Spannung werden pro Zeiteinheit mehr Elektronen zur Anode gelangen. Dies geschieht, weil die Geschwindigkeits- und Orientierungsunterschiede durch die höhere Energie bei höhere Spannung ausgeglichen werden.
@@ -1298,12 +1298,12 @@ Verlauf der Stromstärke nach Einwirkung von Licht
 - **Versuch mit umgekehrter Feldrichtung:** Um die Energie der emittierten Elektronen zu überprüfen, kann ein Experiment durchgeführt werden, bei dem das elektrische Feld so eingestellt wird, dass es den Elektronen entgegenwirkt. Nur die energiereichsten Elektronen erreichen die Anode. Das dient als Filter zu den energiereichen Elektronen und somit können wir wirklich überprüfen, ob Blaues Licht wirklich energiereicher als grünes oder rotes ist.
 
 *Sehr guter Versuch um Energie der Wellenlängen zu untersuchen oder Geschwindigkeit der Elektronen zu bestimmen*
-![[12-Semster-1/Physik LK/Materiellen/Gegenfeldmethode.png| 800]]
+![Image](../Materiellen/Gegenfeldmethode.png)
 Licht gelangt zur Kathode und löst dabei Elektronen die zur Anode bewegt werden. Dabei wird eine Gegenspannung erhöht bis der Photostrom Null erreicht. 
 
 - **Ergebnis:** Je kleiner die Wellenlänge des Lichts, desto höher muss die entgegengesetzte Spannung sein, um den Stromfluss zu blockieren. Dies zeigt, dass *kürzere Wellenlängen mehr Energie (haben) oder (auf die Elektronen übertragen können)*.
 	- Dies bestätigt die vorherige Vermutungen aus 3. und besagt, dass es *eine bestimmte Grenzfrequenz gibt, ab der ein Photonen genug Energie hat, um ein Elektron auszulösen. Diese Grenzfrequenz ist vom Material abhängig. Beim verlassen des Materials wird eine Energie die vom Material abhängig benötigt, um Stoße im Material zu überwinden. Dies wird als die Material abhängige Austrittsarbeit $W_{a}$ bezeichnet.* 
-		![[12-Semster-1/Physik LK/Materiellen/verschiedene Materialien bei Grenzfrequenz.gif| 400]]
+		![Image](../Materiellen/verschiedene%20Materialien%20bei%20Grenzfrequenz.gif)
 			**X-Achsenabschnitt:**
 				  - Der Schnittpunkt der Geraden mit der X-Achse gibt die sogenannte **Grenzfrequenz** an. Diese Frequenz ist die mindest Frequenz des einfallenden Lichts, bei der gerade noch Elektronen aus der Oberfläche des Materials herausgelöst werden können. Bei Frequenzen unterhalb dieser Grenzfrequenz reicht die Energie der Photonen nicht aus, um Elektronen zu emittieren. 
 				  - Mathematisch entspricht dies der Bedingung, bei der die kinetische Energie null ist, d.h.
@@ -1327,7 +1327,7 @@ $$E_{\text{kin, max}} = h \cdot f - W_a$$
 ##### Gegenfeldmethode Mit Kondensator
 
 - **Gegenfeldmethode (mit Kondensator):** Durch das einfallende Licht auf die Kathode werden durch den *Photoeffekt Elektronen freigesetzt*, die Richtung Anode hin beschleunigt werden. Dort führen sie zur *Ladungstrennung im Kondensator*, wodurch sich eine Spannung aufbaut. Mit längerer Bestrahlung der Kathode *steigt die Kondensatorspannung* weiter an und erzeugt eine Gegenspannung. Diese *Gegenspannung* wirkt dem Elektronenstrom entgegen und erhöht sich, bis sie der *maximalen kinetischen Energie der Elektronen* entspricht. Sobald diese *Grenzspannung* erreicht ist, wird der Photostrom null.
-![[12-Semster-1/Physik LK/Materiellen/Gegenfeldmethode mit Kondensator.png]]
+![Image](../Materiellen/Gegenfeldmethode%20mit%20Kondensator.png)
 
 - **Berechnung der kinetischen Energie:** Die kinetische Energie der schnellsten Elektronen kann dann durch
 $$E_{\text{kin}}=e\cdot U_{gegenspannung}=h\cdot f-W_{a}$$
@@ -1353,7 +1353,7 @@ $$c=\lambda\cdot f$$
 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Zwei Wege für h-Bestimmung.png]]
+![Image](../Materiellen/Zwei%20Wege%20für%20h-Bestimmung.png)
 In dieser Abbildung gibt's zwei Wege zur H-Bestimmung (Hier ist die allgemeine Energie gemeint und nicht die maximale kinetische Energie!)
 
 - **Einheitenumrechnung:** Um die Energie in Joule umzurechnen, muss $E_{kin}$ mit (1,6 * 10^-19) multipliziert werden.
@@ -1365,11 +1365,11 @@ In dieser Abbildung gibt's zwei Wege zur H-Bestimmung (Hier ist die allgemeine E
 
 Reine Entstehung ohne Erklärung wieso entstehen Röntgenstrahlung 
 (Polung muss umgedreht bei $U_H$)
-![[12-Semster-1/Physik LK/Materiellen/Röntgenstrahlung- Entstehung.png| 800]]
+![Image](../Materiellen/Röntgenstrahlung-%20Entstehung.png)
 
 ##### Erklärung
 
-![[12-Semster-1/Physik LK/Materiellen/Bremsspektrum.png| 600]]
+![Image](../Materiellen/Bremsspektrum.png)
 
 
 **Einführung in die Röntgenstrahlung:**
@@ -1405,7 +1405,7 @@ Der dargestellte Graph zeigt die Intensität der Röntgenstrahlung in Abhängigk
 
 ###### **1. Bestimmung der Wellenlänge der Röntgenstrahlung mit der Drehkristallmethode**
 
-![[12-Semster-1/Physik LK/Materiellen/bragg-Gleichung-Herleitung.png]]
+![Image](../Materiellen/bragg-Gleichung-Herleitung.png)
 in der Abbildung soll jetzt eigentlich bei den orangenfarbigen Welle eine halbe Wellenlänge da sein, damit wir auf die zwei bei der Formel kommen.
 
 **Grundprinzip:**
@@ -1427,14 +1427,14 @@ $$7,079\times10^{-11}\,\text{m     bis  }7,16\times10^{-11}\,\text{m}$$
 
 Grundprinzip:
 Die Grenzwellenlänge der Röntgenstrahlung entsteht in einer Röntgenröhre, wenn Elektronen durch unelastische Stoße mit den Atomkernen ihre komplette kinetische Energie in Form von Photonen abgeben.
-![[12-Semster-1/Physik LK/Materiellen/Bragg-Bedingung.png]]
+![Image](../Materiellen/Bragg-Bedingung.png)
 Es geht um die schnellsten Elektronen, die ihre volle Energie im Form von Photonen abgeben.
 
 
 
 #### 8. Entstehung der Debye-Scherrer-Ringe (d bestimmen)
 
-![[12-Semster-1/Physik LK/Materiellen/Debye-Scherrer_Ringe_Bild.jpg]]
+![Image](../Materiellen/Debye-Scherrer_Ringe_Bild.jpg)
 - **Grundprinzip:** (Wie kommt es zu dieser hellen Kreisen ?)
   Wenn Röntgenstrahlung auf eine Folie mit Kristallpulver trifft, wird die Strahlung an den *einzelnen Kristallfragmenten gebeugt*. Hinter der Folie, auf einem Röntgenfilm, entsteht ein *Interferenzmuster in Form von Kreisen mit unterschiedlichen Radien*. 
 
@@ -1446,7 +1446,7 @@ Es geht um die schnellsten Elektronen, die ihre volle Energie im Form von Photon
 
 ##### Wichtige Formeln im Debye-Scherrer-Verfahren
 
-![[12-Semster-1/Physik LK/Materiellen/Skizze zur Debye-Scherre-Ringe.png]]
+![Image](../Materiellen/Skizze%20zur%20Debye-Scherre-Ringe.png)
 1. **Bragg-Gleichung:**$$ n \cdot \lambda=2\cdot d \cdot \sin(\theta) $$
    - **d**: Abstand der Netzebenen im Kristall
    - **θ**: Beugungswinkel
@@ -1478,7 +1478,7 @@ Es geht um die schnellsten Elektronen, die ihre volle Energie im Form von Photon
 
 ##### Elektronenbeugung
 
-![[12-Semster-1/Physik LK/Materiellen/Elektronen Beugungsröhre.png| 900]]
+![Image](../Materiellen/Elektronen%20Beugungsröhre.png)
 
 
 
@@ -1661,7 +1661,7 @@ Koinzidenz bezieht sich auf die gleichzeitige Registrierung von Photonen durch z
 
 ##### Aufbau des Mach-Zehnder-Interferometers
 
-![[12-Semster-1/Physik LK/Materiellen/Mach-Zehnder-Interferometer.png| 800]]
+![Image](../Materiellen/Mach-Zehnder-Interferometer.png)
 -  **Komponenten**: Laserquelle, Strahlteiler, Spiegel, Schirm/Detektor.
 - **Funktionsweise**:
 	- Der Laserstrahl wird durch einen **Strahlteiler** in zwei Wege (Weg A und Weg B) aufgeteilt.
@@ -1685,7 +1685,7 @@ Koinzidenz bezieht sich auf die gleichzeitige Registrierung von Photonen durch z
 		
 		Am **Detektor 1** treffen die Strahlen hingegen mit einer **Phasenverschiebung** von $\pi$ (Pfad a) und (Pfad b) ein. Aufgrund des Phasenunterschieds von kommt es hier zu **destruktiver Interferenz**, und der Detektor bleibt dunkel.
 - **Michelson Interferometer** hat einen regelbaren Schirm, wodurch den Phasensprung nach Wunsch angepasst werden kann, wobei eine Verschiebung der Schirm um einen Viertel der Wellenlänge, verursacht eine Verschiebung um die halbe Wellenlänge, da der Weg hin und zurück ist. 
-	  ![[12-Semster-1/Physik LK/Materiellen/Michelson Interferometer.png| 800]]
+	  ![Image](../Materiellen/Michelson%20Interferometer.png)
 
 
 ##### Interferenz mit einzelnen Photonen
@@ -1754,9 +1754,9 @@ Zwei komplementäre Größen wie Ort und Impuls können in der Quantenmechanik n
 Ein anschauliches Beispiel hierfür ist das Einzelspaltexperiment. Werden Elektronen durch einen Spalt der Breite x geschickt, zeigt sich hinter dem Spalt eine Streuung der Impulse, die durch die Standardabweichung beschrieben wird. Verkleinert man die Breite  des Spalts, nimmt die Streuung der Impulse – und damit die Standardabweichung – zu. Umgekehrt vergrößert man die Breite des Spaltes nimmt die Impulsstreuung ab. Diese Beobachtung illustriert, dass es grundsätzlich unmöglich ist, Quantenobjekte in einen Zustand zu bringen, in dem die Messwerte von Ort und Impuls (oder anderen komplementären Größen)  kleinere Streuungen aufweisen, als durch den folgenden Formel erlaubt ist.
 $$\Delta x\cdot\Delta p_{x}\ge\frac{h}{4\pi}$$
 #### Aufgaben
-[[12-Semster-1/Physik LK/Materiellen/AB Fotoeffekt Gegenfeldmethode mit Kondensator 1.pdf]]
-[[12-Semster-1/Physik LK/Materiellen/Fotoeffekt Versuch Gegenfeldmethode 2.pdf]]
-[[12-Semster-1/Physik LK/Materiellen/calculations_merged.pdf]]
+[[Materiellen/AB Fotoeffekt Gegenfeldmethode mit Kondensator 1.pdf]]
+[[Materiellen/Fotoeffekt Versuch Gegenfeldmethode 2.pdf]]
+[[Materiellen/calculations_merged.pdf]]
 
 
 
@@ -1777,10 +1777,10 @@ $$ \int |\Psi|^2 \, dV = 1 $$
 #### Definition:  
 
   - Potenzialverlauf: Zwischen $x = 0$ und $x = a$ liegt konstante Energie.  
-  ![[12-Semster-1/Physik LK/Materiellen/Beispiel Atomdarstellung mit der Breite a.png| 600]]
+  ![Image](../Materiellen/Beispiel%20Atomdarstellung%20mit%20der%20Breite%20a.png)
   - Wände bei $x = 0$ und $x = a$: Potenzial $V(x) \to \infty$ (Potentielle Energie gegen unendlich bei den Wände).  
   - *Innerhalb des Topfs* wird das *Elektron* mit Hilfe der *Wellenfunktion einer stehenden Welle* (breitet sich also mit einer ganzzahliges vielfaches der halben Wellenlänge) beschrieben, wobei die *Energie* durch die *verschiedenen Schwingungen* *dargestellt* werden kann (Grundschwingung und Oberschwingungen, siehe Foto).
-	  ![[12-Semster-1/Physik LK/Materiellen/Wellenfunktion und Wahrscheinlichkeitsdichte.png| 800]]
+	  ![Image](../Materiellen/Wellenfunktion%20und%20Wahrscheinlichkeitsdichte.png)
 	  -> Mit diesem Modell können wir also die *verschiedenen Energiezustände eines Elektrons durch verschiedenen $|\Psi(x)|^2$ Graphen darstellen.* Daraus ergibt sich, dass die *unterschiedlichen Energiezustände zu unterschiedlichen Wahrscheinlichkeitsverteilungen* führen. 
 	  
 	  Aus dem Bild sieht mann, dass das Energiezustand mit $n = 1$ wahrscheinlicher in der Mitte ist und bei $n = 2$ liegt die Wahrscheinlichkeit ehr weiter vom Mitte entfernt.
@@ -1793,7 +1793,7 @@ $$ \int |\Psi|^2 \, dV = 1 $$
 	  - Die Wände des Potentialtopfs sind nur eine Vereinfachung, die unendlich lang sind und darum wird unendliche kinetische Energie nötig, um die zu überwinden (Ziel: undurchgänglich für das Elektron zu sein)
   - *Im Bereich $a$ sind die Elektronen delokalisiert.*
 	  - Aber Elektronen werden hier bei dieser Schreibweise innerhalb eines bestimmten Molekül als Lokalisiert aufgefasst, wobei dies die Realität nicht entspricht (Siehe Foto: Cyanin-Farbstoff).
-	  ![[12-Semster-1/Physik LK/Materiellen/Beispiel Atomdarstellung.png|600]]
+	  ![Image](../Materiellen/Beispiel%20Atomdarstellung.png)
 
 ---
 
@@ -1881,7 +1881,7 @@ $$m_{e}\cdot r_{n}\cdot v_{n}=\frac{n\cdot h}{2\cdot\pi}$$
 
 3. Für die Frequenz gilt $\frac{E}{h}$  und das bedeutet, dass es genau die obige Formel sein wird, außer $h^2$ wird $h^3$ und der Vorfaktor der Formel mit $h^3$ nennt man Rydberg-Konstante und somit ist die Frequenz: $$f = f_{Ry} \cdot \left( \frac{1}{m^2} - \frac{1}{n^2} \right)$$
    Dies ist die Frequenz der Spektrallinien (Linienspektrum und ist charakteristisch für jedes Atom und die verschiedenen Linien werden gruppiert und als Serie bezeichnet und darum gibt es verschiedenen Serien) des Wasserstoffatoms. Mithilfe das Atommodell von Bohr können dann jede Spektrallinie einer Energiedifferenz zweier Energieniveaus.
-   ![[12-Semster-1/Physik LK/Materiellen/Energieniveauschema des Wasserstoffatoms.png| 400]]
+   ![Image](../Materiellen/Energieniveauschema%20des%20Wasserstoffatoms.png)
   
 
 ### Grenzen dieses Modell
@@ -1902,10 +1902,10 @@ $$m_{e}\cdot r_{n}\cdot v_{n}=\frac{n\cdot h}{2\cdot\pi}$$
 
 ### Resonanzfluoreszenz:
 Atome wie Natriumatome in einer Natriumdampflampe emittieren aufgrund energetischer Anregung Licht mit einem Linienspektrum. Die Natriumatome im Dampf, die durch den Gasbrenner erzeugt wird, absorbieren nur die Photonen mit genau der Wellenlänge, die die Energie besitzt, um die Natriumatome auf ein höheres Energieniveau anzuheben. Nach einer kurzer Zeit von etwa $10^{-8}$ Sekunden emittieren die Atome diese Photonen wieder in alle Richtungen, während sie in den Grundzustand zurückkehren (Resonanzabsorption: Atome absorbieren genau jene Energiequanten $E = h \cdot f$, die sie auch wieder emittieren). Diese Emission in alle Richtungen führt dazu, dass hinter der Flamme ein erheblicher Teil der Lichtintensität fehlt, wodurch ein Schatten entsteht. 
-![[12-Semster-1/Physik LK/Materiellen/Experiment 1 bei Resonanzfloureszent.png| 600]]
+![Image](../Materiellen/Experiment%201%20bei%20Resonanzfloureszent.png)
 
 Im zweiten Experiment können die Natriumatome im Dampf, der durch den Gasbrenner erzeugt wird, die Photonen der Quecksilberdampflampe nicht absorbieren, da die Quecksilberdampflampe ein anderes Linienspektrum besitzt, das keine Photonen mit den exakt benötigten Wellenlängen zur Anregung der Natriumatome enthält. Somit findet keine Resonanzabsorption statt, das Licht der Lampe passiert die Flamme ungehindert, und es entsteht kein Schatten auf dem Schirm, da die ursprüngliche Lichtintensität nicht vermindert wird.
-![[12-Semster-1/Physik LK/Materiellen/Experiment 2 bei Resonanzfloureszent.png| 600]]
+![Image](../Materiellen/Experiment%202%20bei%20Resonanzfloureszent.png)
 
 - Ein Beispiel für Resonanzfluoreszenz:
 	Das Licht der Sonne besitzt ein kontinuierliches Spektrum, das jedoch beim Messen viele Absorptionslinien zeigt. Dies liegt daran, dass bestimmte Wellenlängen von Gasen in der Erdatmosphäre und der Sonnenatmosphäre absorbiert werden.
@@ -1964,7 +1964,7 @@ Ein Beispiel für Phosphoreszenz sind **leuchtende Sterne** auf Kinderzimmerdeck
 ## Franck-Hertz-Versuch
 
 Versuchsskizze: ([Simulation](https://www.kippenbergs.de/de/mint-franckhertz))
-![[12-Semster-1/Physik LK/Materiellen/Frank-Hertz-Versuch.png| 800]]
+![Image](../Materiellen/Frank-Hertz-Versuch.png)
 $U_G$ : Gegenspannung, um den Stromfluss zu verringern
 Die Geschwindigkeit durch das Gleichsetzen von $E_{kin}$ & $E_{el}$ 
 Gitter dient als Anode
@@ -1978,7 +1978,7 @@ Durch die Erhöhung der Spannung steigt die Stromstärke auch an. Bis zu einer b
 ### Erklärung
 
 
-![[12-Semster-1/Physik LK/Materiellen/U-I Diagramm zur Frank-Hertz.png|1000]]
+![Image](../Materiellen/U-I%20Diagramm%20zur%20Frank-Hertz.png)
 
 - **Elastische Stöße**, bei denen das Elektron praktisch keine Energie verliert, so dass es im Regelfall genügend Energie besitzt um die kleine Gegenspannung zur Anode zu überwinden. $E_{kin}= h*f < E_{2}- E_1$ 
 $E_1$ = Energie des Atoms in dem Grundzustand
@@ -2019,7 +2019,7 @@ Nach Erreichen des zweiten Maximums befindet sich die erste Anregungszone etwa i
   - Mehr Energie lässt auch dasselbe Elektron mehrmals Atome anregen, wodurch mehr Elektronen ohne Anregung die Auffängerelektrode erreichen. 
   - Die Stromstärke sinkt nicht vollständig auf den gleichen Wert wie bei vorherigen Minima. 
   5- Unterschiede zwischen der Anregung mit Photonen und Elektronen im Frank-Hertz-Versuch:
-  ![[12-Semster-1/Physik LK/Materiellen/Screenshot 2024-12-23 at 19.42.55.png| 600]]
+  ![Image](../Materiellen/Screenshot%202024-12-23%20at%2019.42.55.png)
 
 
 ## Röntgenstrahlung - Charakteristische Strahlung mit Linienspektrum
@@ -2033,7 +2033,7 @@ Beispiele für Übergänge: (muss man erwähnen bei einer detaillierten Erkläru
 
 • **K$_\beta$-Strahlungslinie**: Übergang von der M-Schale zur K-Schale.
 
-![[12-Semster-1/Physik LK/Materiellen/Graph zu Intensität und Lambda von Röntgenstrahlung.png|600]]
+![Image](../Materiellen/Graph%20zu%20Intensität%20und%20Lambda%20von%20Röntgenstrahlung.png)
 
 ### wichtige Hinweise:
 - Die Energie der K$_\alpha$-Strahlung ist kleiner als die der K$_\beta$-Strahlung, da die K$_\alpha$-Linie bei einer größeren Wellenlänge liegt, was größere Winkel bedeutet. (Über die Beziehung $n \cdot \lambda = 2d \cdot \sin(\theta)$)
@@ -2073,7 +2073,7 @@ Hierbei sind:
 
 *(nicht so wichtig....man kann es eigentlich weg lassen, weil es sehr unwahrscheinlich, dass es dran kommt. Also für die Prüfung nur lernen, wenn alles andere abgeschlossen ist und man Bock darauf hat)*
 
-![[12-Semster-1/Physik LK/Materiellen/Orbitale und Quantenzahlen SuS.pdf]]
+![Image](../Materiellen/Orbitale%20und%20Quantenzahlen%20SuS.pdf)
 
 Wir müssen nur bis Seite 4 können.
 ### Orbitale und Nachweiswahrscheinlichkeiten
@@ -2086,7 +2086,7 @@ Wir müssen nur bis Seite 4 können.
 	- magnetische Quantenzahl -> $m$ (bestimmt der räumliche Struktur der Orbitale)
 	Wobei gilt $(m <= l <= n-1)$
 
-![[12-Semster-1/Physik LK/Materiellen/Orbitale des Wasserstoffatoms.png| 350]]
+![Image](../Materiellen/Orbitale%20des%20Wasserstoffatoms.png)
 
 ### Erweiterung des Potentialtopfmodells: (Sehr unwahrscheinlich in der Abitur)
 
@@ -2132,7 +2132,7 @@ Besonders betroffen sind Gewebe mit *hoher Zellteilungsrate*, wie die Darmschlei
 
 #### Beobachtung von Radium am Elektroskop
 
-![[12-Semster-1/Physik LK/Materiellen/Elektroskop.jpeg]]
+![Image](../Materiellen/Elektroskop.jpeg)
 
 Sobald die *Radiumprobe in die Nähe des Tellers* gebracht wird, kann man beobachten, dass sich *das positiv oder negativ geladene Elektroskop langsam oder schnell entlädt, je nach Intensität der Strahlung*. Dies zeigt den Verlust der elektrischen Ladung, unabhängig davon, ob sie positiv oder negativ ist.
 
@@ -2155,10 +2155,10 @@ Die *Strahlung* radioaktiver Stoffe *überträgt Energie auf Atome* und Molekül
 ### Aufbau
 
 Das Geiger-Müller-Zählrohr wird zur Detektion ionisierender Strahlung (z. B. Alpha-, Beta- oder Gamma-Strahlung) eingesetzt. Die Funktion basiert auf der *Ionisation eines Füllgases, wodurch elektrische Impulse entstehen, die gezählt werden können*.
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-16 at 14.03.27.png]]
+![Image](../Materiellen/Screenshot%202025-02-16%20at%2014.03.27.png)
 *(Das obere Zeichnen können ist wichtig)* 
 
-![[12-Semster-1/Physik LK/Materiellen/GMZ.png|600]]
+![Image](../Materiellen/GMZ.png)
 • **Anode:** Ein positiv geladener Draht in der Mitte des Zählrohrs.
 
 • **Kathode:** Der negativ geladene Zylinder, der die Außenwand (Metallmantel) des Zählrohrs bildet.
@@ -2199,7 +2199,7 @@ Das Geiger-Müller-Zählrohr wird zur Detektion ionisierender Strahlung (z. B. A
 
 #### Zählrohrcharakteristik – Kennlinie
 *(Rede lieber von Elektronen)*
-![[12-Semster-1/Physik LK/Materiellen/Zählrohrcharakteristik.png| 700]]
+![Image](../Materiellen/Zählrohrcharakteristik.png)
 Die Kennlinie zeigt die Stromstärke in Abhängigkeit von der Zählrohrspannung.
 
   
@@ -2325,7 +2325,7 @@ Durch Auftragung von $\ln N(t)$ gegen $t$ ergibt sich eine Gerade mit der Steigu
 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-16 at 17.32.25.png]]
+![Image](../Materiellen/Screenshot%202025-02-16%20at%2017.32.25.png)
 
 Hinweise:
 - Zählrate ist kleiner da nicht jeder Zerfall erfasst wird wegen (Messverluste, Abschirmung, Detektoreffizienz)
@@ -2374,7 +2374,7 @@ Wenn eine Diode in *Sperrrichtung* geschaltet wird, entsteht eine breite *ladung
 ### Energiespektrum
 
 (Der Graph zu den Zerfalls Produkte bei der Kalibrierung gehört einen bestimmten ZerfallsNuklid und die Produkte aber es zeichnet dann nur eine bestimmte Zerfallsart. Also wenn es um die Alpha Zerfällen einer Nuklid geht, dann kann ich die Beta Zerfälle nicht am Graph sehen und darum dann bei der Zerfallsreihe interessiert mich nur die Alpha Zerfälle und deren Energiewerte.)
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-15 at 12.47.20.png| 800]]
+![Image](../Materiellen/Screenshot%202025-02-15%20at%2012.47.20.png)
 Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern nur die Nummer eines Kanals. (Analogievergleich zu Röntgenröhre Lambda-n Graph) Wir müssen also die Energie pro Kanal bestimmen (Kalibrierung).
 - Jeder Kanal bestimmt einen Energiebereich durch $E=E_{proKanal}\cdot Kanal_{\operatorname{nummer}}$.
 - Der Spannungshohen Analysator ordnet dann jeder Spannungsimpuls einen bestimmten Kanal zu und die zählt wie oft diesen Spannungsimpuls registriert wurde.
@@ -2397,7 +2397,7 @@ Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern
 
 #### Bragg-Kurve:
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-15 at 11.57.18.png| 500]]
+![Image](../Materiellen/Screenshot%202025-02-15%20at%2011.57.18.png)
 **Beschreibung:**
 - *Zuerst geringer Energieverlust*: Am Anfang verliert das Teilchen *wenig Energie pro Strecke*.
 - Mit zunehmender Strecke steigt die *Ionisationsdichte*, da die Teilchen langsamer werden und somit mehr Energie pro Strecke abgeben können.
@@ -2418,7 +2418,7 @@ Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern
 
 ## Quantisierung der Gesamtenergie von Nukleonen im eindimensionalen Potenzialtopf
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-11 at 12.11.37.png| 600]]
+![Image](../Materiellen/Screenshot%202025-03-11%20at%2012.11.37.png)
 
 ### Grundlagen des eindimensionalen Potenzialtopfmodells
 
@@ -2495,13 +2495,13 @@ Wenn eine Probe zwei radioaktive Nuklide mit unterschiedlichen Halbwertszeiten e
 3. Erstelle das $t$-$N$- oder das $t$-$\ln N$-Diagramm für das kurzlebige Nuklid.
 4. Bestimme die Steigung $-\lambda$ der linearen Anpassung im $t$-$\ln N$-Diagramm. (oder direkt durch $t$-$N$-Diagramm)
 5. Berechne die Halbwertszeit mit:$$ t_H = \frac{\ln 2}{\lambda} $$
-[[12-Semster-1/Physik LK/Materiellen/Zerfallsgesetz 2021SuS.pdf]] (Beispiel Aufgabe mit Lösung dazu ganz am Ende)
+[[Materiellen/Zerfallsgesetz 2021SuS.pdf]] (Beispiel Aufgabe mit Lösung dazu ganz am Ende)
 
 
 ##### **Zerfallsreihe mit Reaktionsgleichung**
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-12 at 23.06.17.png| 500]]
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-12 at 23.07.03.png| 500]]
+![Image](../Materiellen/Screenshot%202025-02-12%20at%2023.06.17.png)
+![Image](../Materiellen/Screenshot%202025-02-12%20at%2023.07.03.png)
 
 
 ##### **Erläutere, warum die Zählrate auch ohne Absorption mit zunehmender Entfernung vom Präparat geringer wird**
@@ -2517,23 +2517,23 @@ https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufg
 
 ##### **Aufgaben zu Absorption und Abstand aus dem Unterricht**
 
-[[12-Semster-1/Physik LK/Materiellen/AB Absorption 2023.pdf]]
+[[Materiellen/AB%20Absorption%202023.pdf]]
 
-[[12-Semster-1/Physik LK/Materiellen/AB Abstandsgesetz 2023.pdf]]
+[[Materiellen/AB%20Abstandsgesetz%202023.pdf]]
 
 
 
 
 ##### **Energiespektrum von Alphastrahlung**
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-15 at 13.24.19.png]]
+![Image](../Materiellen/Screenshot%202025-02-15%20at%2013.24.19.png)
 
 
-![[12-Semster-1/Physik LK/Materiellen/r-E Diagramm.png| 500]]
+![Image](../Materiellen/r-E%20Diagramm.png)
 - Die Energie nimmt mit steigendem Abstand ab, da die α-Teilchen auf ihrem Weg Energie durch Wechselwirkungen mit dem Medium (Luft oder anderes Material) verlieren. 
 - Wenn sich die Energie null nähert, erreichen die α-Teilchen ihre Reichweite, daher deren gesamte Energie wird an die Luft Moleküle übertragen.
 
-![[12-Semster-1/Physik LK/Materiellen/bc279ea42653ed42a5786cad9043236b78614231929d7594d29e449e9741dd5f.png| 500]]
+![Image](../Materiellen/bc279ea42653ed42a5786cad9043236b78614231929d7594d29e449e9741dd5f.png)
 Delta E/Delta r kommen aus zwei aufeinanderfolgender Werte der jeweiligen Größe.
 
 |                |                            |

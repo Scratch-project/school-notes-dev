@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-1bffacd61ad11303cf1531c59613ec7c9663b310: [[12-Semster-1/Physik LK/Materiellen/Aufgaben zur Braun‘ Schenk Röhre.jpg]]
+1bffacd61ad11303cf1531c59613ec7c9663b310: [[Materiellen/Aufgaben zur Braun‘ Schenk Röhre.jpg]]
 
 %%
 # Drawing

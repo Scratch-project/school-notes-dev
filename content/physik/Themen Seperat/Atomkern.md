@@ -1,21 +1,18 @@
 ## Einführung
 
+
 Polonium strahlt Alphateilchen in Form von Heliumkernen aus. Diese Partikel haben eine *hohe Ionisierungsenergie*, was bedeutet, dass sie *sehr effizient Moleküle ionisieren und damit Gewebe schädigen* können. Obwohl *Alphastrahlung* von einfachen Materialien wie Papier *leicht abgeschirmt* werden kann, ist sie bei direktem Kontakt mit lebendem Gewebe *äußerst schädlich*. Die *DNA* wird durch das *Brechen chemischer Bindungen geschädigt*, was durch die *Energieübertragung der Alphateilchen verursacht* wird und zu *fehlerhaften Zellfunktionen* oder *Zelltod* führen.
 
-Besonders betroffen sind Gewebe mit *hoher Zellteilungsrate*, wie die Darmschleimhaut oder das Knochenmark. In solchen Geweben führen Schäden an der DNA schneller zu Mutationen, da geschädigte Zellen durch die *hohe Teilungsrate* mit größerer Wahrscheinlichkeit *weitervermehrt* werden, bevor *Reparaturmechanismen* greifen können. Dies kann die Entstehung von *Krebs begünstigen* oder zu Gewebeausfällen führen.
 
-
-
-> [!Ionisation tritt also auf, wenn radioaktive Strahlung auf neutrale Atome treffen und dabei ein Elektron aus der Atomhülle entfernen (positiver Ion entsteht). Bei genügend Energie kann dieser Elektron wieder Atome ionisieren. ]
-
-
+> [!INFO]
+> **Ionisation:** Ionisation tritt also auf, wenn radioaktive Strahlung auf neutrale Atome trifft und dabei ein Elektron aus der Atomhülle entfernt (es entsteht ein positives Ion). Bei genügend Energie kann dieses Elektron wieder Atome ionisieren.
 
 
 ### Das Elektroskop
 
 #### Beobachtung von Radium am Elektroskop
 
-![[12-Semster-1/Physik LK/Materiellen/Elektroskop.jpeg]]
+![Image](../Materiellen/Elektroskop.jpeg)
 
 Sobald die *Radiumprobe in die Nähe des Tellers* gebracht wird, kann man beobachten, dass sich *das positiv oder negativ geladene Elektroskop langsam oder schnell entlädt, je nach Intensität der Strahlung*. Dies zeigt den Verlust der elektrischen Ladung, unabhängig davon, ob sie positiv oder negativ ist.
 
@@ -38,10 +35,10 @@ Die *Strahlung* radioaktiver Stoffe *überträgt Energie auf Atome* und Molekül
 ### Aufbau
 
 Das Geiger-Müller-Zählrohr wird zur Detektion ionisierender Strahlung (z. B. Alpha-, Beta- oder Gamma-Strahlung) eingesetzt. Die Funktion basiert auf der *Ionisation eines Füllgases, wodurch elektrische Impulse entstehen, die gezählt werden können*.
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-16 at 14.03.27.png]]
+![Image](../Materiellen/Screenshot%202025-02-16%20at%2014.03.27.png)
 *(Das obere Zeichnen können ist wichtig)* 
 
-![[12-Semster-1/Physik LK/Materiellen/GMZ.png|600]]
+![Image](../Materiellen/GMZ.png)
 • **Anode:** Ein positiv geladener Draht in der Mitte des Zählrohrs.
 
 • **Kathode:** Der negativ geladene Zylinder, der die Außenwand (Metallmantel) des Zählrohrs bildet.
@@ -82,7 +79,7 @@ Das Geiger-Müller-Zählrohr wird zur Detektion ionisierender Strahlung (z. B. A
 
 #### Zählrohrcharakteristik – Kennlinie
 *(Rede lieber von Elektronen)*
-![[12-Semster-1/Physik LK/Materiellen/Zählrohrcharakteristik.png| 700]]
+![Image](../Materiellen/Zählrohrcharakteristik.png)
 Die Kennlinie zeigt die Stromstärke in Abhängigkeit von der Zählrohrspannung.
 
   
@@ -126,16 +123,133 @@ Das Geiger-Müller-Zählrohr wird im Auslösebereich (IV) betrieben, da es hier 
 
 Durch die kosmischen, Erdinneren oder dem Qualm von Zigaretten ergibt sich eine natürliche *Strahlenbelastung (Nullrate)*.  Die sogenannte Nullrate wird von diesem natürlichen Strahlung hervorgerufen und muss bei Messungen von dem erhaltenen Messwert abgezogen werden. 
 
-> [!Die Nullrate wird durch mehrmals messen und dann durchschnitt bilden bestimmt und anschließend von der zu berechnenden Strahlungsmenge eines Stoffs abgezogen]
 
 
+> [!INFO]
+> **Nullrate:** Die Nullrate wird durch mehrmals messen und dann durchschnitt bilden bestimmt und anschließend von der zu berechnenden Strahlungsmenge eines Stoffs abgezogen
 
-| **Strahlungsart**             | **Teilchenart / Welle**                                                                                                                  | **Ladung.und.Lenkung.durch.Felder**                                                                                                                                                                                                                                                                                                                                       | **Zerfallsreaktion.und.Beispiele**                                                                                       | **Durchdringungs-fähigkeit**                         | **Abschirmung**                          | **Wirkung auf Materie**                                                         | **Hinweise...................................................................**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alpha-Strahlung (α)**       | zweifach positiv Heliumkern (2 Protonen, 2 Neutronen), also ohne Elektronen<br><br>*Nuklidkarte:*<br>Zwei nach unten und zwei nach links | +2<br><br>- In Richtung der negativen Platte (Kathode) bei elektrischen Feldern abgelenkt.<br><br>- Aufgrund der großen Masse werden Alpha Teilchen weniger abgelenkt als Beta-Teilchen.<br><br>- im magnetischen Feld entgegengesetzt zu Beta-Minus abgelenkt und gleich zu Beta Plus aber weniger abgelenkt.<br><br>- In der Nebelkammer sind die Spuren kurz und dick. | Beispiel:  $$ ^A_ZX \to ^{A-4}_{Z-2}Y + ^4_2He $$ $$ ^{238}_{92}U \to ^{234}_{90}Th + ^4_2He $$                          | Sehr gering (einige cm Luft, wenige µm in Gewebe)    | Papier, Haut, Kleidung                   | Hohe Ionisationskraft, gefährlich bei Aufnahme in den Körper                    | - Wird von magnetischen und elektrischen Feldern entgegengesetzt zu Beta Minus abgelenkt.<br><br>- Atome besitzen quantisierte Energiezuständ. Jedes Nuklid hat daher einen wohl definierten Energiezustand vor und nach dem Alpha-Zerfall. Da beim Alpha-Zerfall nur das Alpha-Teilchen und der Tochterkern entstehen, folgt aus der Energieerhaltung, dass das Alpha-Teilchen eine bestimmte, wohl definierte Energiemenge erhält. Diese Energie entspricht der Differenz der Energieniveaus des Mutter- und des Tochterkerns.<br><br>- Abschirmung von Alpha Teilchen hängt von der Dichte und Dicke der Materie ab. Vergleicht man zwei Graphen von Alpha Spektrum, eine mit Abschirmung und eine ohne, dann treten folgende Änderung zu der Graph mit Abschirmung (E-N Diagramm):<br><br>       - Der Graph verschiebt sich nach links da die Alpha Teilchen Energie beim Ionisieren von den Atomen verlieren. <br>	   - Die Peaks werden breiter, weil unterschiedliche α-Teilchen unterschiedliche Wechselwirkungen mit der Materie haben und daher eine Streuung der Energien auftritt.<br>	   - Der Verlauf wird flacher, da die Gesamtintensität der α-Strahlung abnimmt, da ein Teil der Teilchen durch Streuung oder Absorption in der Folie Energie verliert oder vollständig gestoppt wird.<br> |
-| **Beta-Minus-Strahlung (β⁻)** | Elektron <br><br>*Nuklidkarte:* <br>Ein nach oben und ein nach links                                                                     | -1<br><br>- In Richtung der positiven Platte bei elektrischen Feldern abgelenkt.<br><br>- Wird stark abgelenkt, kann mit der Drei-Finger-Regel bei magnetischen Feldern bestimmt werden.<br><br>- In der Nebelkammer sind die Spuren lang und dünn (gilt für Beta-Plus-Strahlung ebenfalls).                                                                              | Beispiel:  $$ ^A_ZX \to ^A_{Z+1}Y + e^- + \bar{\nu}_e $$ $$ ^{14}_6C \to ^{14}_7N + e^- + \bar{\nu}_e $$                 | Mittlere Reichweite (cm bis m in Luft, mm in Gewebe) | Aluminiumfolie, Plexiglas                | Mittlere Ionisationskraft, kann tiefere Gewebeschichten schädigen               | - Hier wird ein Neutron in ein Proton und ein Elektron umgewandelt. Das Elektron wird abgestrahlt.<br><br>- Beim Beta-Zerfall wird die gesamte freigesetzte Energie auf drei Teilchen verteilt: das emittierte Beta-Teilchen (Elektron oder Positron), das (Anti)neutrino und den Tochterkern. Da das Neutrino eine variable Menge an Energie aufnimmt, ergibt sich für das Beta-Teilchen ein kontinuierliches Energiespektrum. <br><br>- Die Nuklidkarte gibt die maximale Energie an. <br><br>- Wird von magnetischen und elektrischen Feldern abgelenkt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Beta-Plus-Strahlung (β⁺)**  | Positron (β⁺)<br><br>*Nuklidkarte:*<br>Ein nach unten und ein nach rechts                                                                | +1<br><br>- In Richtung der negativen Platte bei elektrischen Feldern abgelenkt.<br><br>- Wird stark abgelenkt.                                                                                                                                                                                                                                                           | Beispiel:  $$ ^A_ZX \to ^A_{Z-1}Y + e^+ + \nu_e $$ $$ ^{11}_6C \to ^{11}_5B + e^+ + \nu_e $$                             | Mittlere Reichweite (cm bis m in Luft, mm in Gewebe) | Aluminiumfolie, Plexiglas                | Positronen-Annihilation erzeugt Gammastrahlung (Gefahr durch Sekundärstrahlung) | - Ein Proton wandelt sich im Kern in ein Neutron und ein Positron um.<br><br>- Wird von magnetischen und elektrischen Feldern abgelenkt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Gamma-Strahlung (γ)**       | Elektromagnetische Welle (Photon)                                                                                                        | 0 (keine Ladung, keine Ablenkung durch Felder)                                                                                                                                                                                                                                                                                                                            | Beispiel: (nach Alpha- oder Betazerfall) $$ ^A_ZX^* \to ^A_ZX + \gamma $$ $$ ^{60}_{27}Co^* \to ^{60}_{27}Co + \gamma $$ | Sehr hoch (mehrere cm Blei, Meter in Beton)          | Dicke Bleischicht (رصاص), Beton (خرسانه) | Geringe Ionisationskraft, aber hohe Durchdringung, schädigt DNA tief im Körper  | - Ein energetisch angeregter Kern wandelt sich in einen weniger angeregten Zustand um und sendet dabei Gammastrahlung aus (elektromagnetische Strahlung).<br><br>- Geschieht meist innerhalb von Sekundenbruchteilen als Folgeprozess anderer Zerfallsarten.<br><br>- Hat diskrete Energieniveaus und wird nicht durch magnetische oder elektrische Felder abgelenkt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+### Vergleich der Strahlungsarten
+
+> **💡 Klicken Sie auf eine Strahlungsart, um Details anzuzeigen**
+
+<details>
+<summary><strong>🔴 Alpha-Strahlung (α)</strong></summary>
+
+**Teilchenart / Welle:**
+- Zweifach positiv geladener Heliumkern (2 Protonen, 2 Neutronen), also ohne Elektronen
+- *Nuklidkarte:* Zwei nach unten und zwei nach links
+
+**Ladung und Lenkung durch Felder:**
+- **Ladung:** +2
+- In Richtung der negativen Platte (Kathode) bei elektrischen Feldern abgelenkt
+- Aufgrund der großen Masse weniger abgelenkt als Beta-Teilchen
+- Im magnetischen Feld entgegengesetzt zu Beta-Minus abgelenkt
+- In der Nebelkammer: kurze und dicke Spuren
+
+**Zerfallsreaktion und Beispiele:**
+$$ ^A_ZX \to ^{A-4}_{Z-2}Y + ^4_2He $$
+$$ ^{238}_{92}U \to ^{234}_{90}Th + ^4_2He $$
+
+**Durchdringungsfähigkeit:** Sehr gering (einige cm Luft, wenige µm in Gewebe)
+
+**Abschirmung:** Papier, Haut, Kleidung
+
+**Wirkung auf Materie:** Hohe Ionisationskraft, gefährlich bei Aufnahme in den Körper
+
+**Besondere Hinweise:**
+- Wird von magnetischen und elektrischen Feldern entgegengesetzt zu Beta-Minus abgelenkt
+- Alpha-Teilchen haben wohl definierte Energieniveaus aufgrund der Energieerhaltung
+- Bei Abschirmung: Graph verschiebt sich nach links, Peaks werden breiter, Verlauf wird flacher
+
+</details>
+
+<details>
+<summary><strong>🔵 Beta-Minus-Strahlung (β⁻)</strong></summary>
+
+**Teilchenart / Welle:**
+- Elektron
+- *Nuklidkarte:* Ein nach oben und ein nach links
+
+**Ladung und Lenkung durch Felder:**
+- **Ladung:** -1
+- In Richtung der positiven Platte bei elektrischen Feldern abgelenkt
+- Wird stark abgelenkt (Drei-Finger-Regel bei magnetischen Feldern)
+- In der Nebelkammer: lange und dünne Spuren
+
+**Zerfallsreaktion und Beispiele:**
+$$ ^A_ZX \to ^A_{Z+1}Y + e^- + \bar{\nu}_e $$
+$$ ^{14}_6C \to ^{14}_7N + e^- + \bar{\nu}_e $$
+
+**Durchdringungsfähigkeit:** Mittlere Reichweite (cm bis m in Luft, mm in Gewebe)
+
+**Abschirmung:** Aluminiumfolie, Plexiglas
+
+**Wirkung auf Materie:** Mittlere Ionisationskraft, kann tiefere Gewebeschichten schädigen
+
+**Besondere Hinweise:**
+- Neutron wandelt sich in Proton und Elektron um
+- Kontinuierliches Energiespektrum durch Energieverteilung auf drei Teilchen
+- Nuklidkarte gibt die maximale Energie an
+
+</details>
+
+<details>
+<summary><strong>🟦 Beta-Plus-Strahlung (β⁺)</strong></summary>
+
+**Teilchenart / Welle:**
+- Positron (β⁺)
+- *Nuklidkarte:* Ein nach unten und ein nach rechts
+
+**Ladung und Lenkung durch Felder:**
+- **Ladung:** +1
+- In Richtung der negativen Platte bei elektrischen Feldern abgelenkt
+- Wird stark abgelenkt
+
+**Zerfallsreaktion und Beispiele:**
+$$ ^A_ZX \to ^A_{Z-1}Y + e^+ + \nu_e $$
+$$ ^{11}_6C \to ^{11}_5B + e^+ + \nu_e $$
+
+**Durchdringungsfähigkeit:** Mittlere Reichweite (cm bis m in Luft, mm in Gewebe)
+
+**Abschirmung:** Aluminiumfolie, Plexiglas
+
+**Wirkung auf Materie:** Positronen-Annihilation erzeugt Gammastrahlung (Gefahr durch Sekundärstrahlung)
+
+**Besondere Hinweise:**
+- Proton wandelt sich im Kern in Neutron und Positron um
+- Wird von magnetischen und elektrischen Feldern abgelenkt
+
+</details>
+
+<details>
+<summary><strong>🟢 Gamma-Strahlung (γ)</strong></summary>
+
+**Teilchenart / Welle:**
+- Elektromagnetische Welle (Photon)
+
+**Ladung und Lenkung durch Felder:**
+- **Ladung:** 0 (keine Ladung)
+- Keine Ablenkung durch elektrische oder magnetische Felder
+
+**Zerfallsreaktion und Beispiele:**
+$$ ^A_ZX^* \to ^A_ZX + \gamma $$
+$$ ^{60}_{27}Co^* \to ^{60}_{27}Co + \gamma $$
+(nach Alpha- oder Betazerfall)
+
+**Durchdringungsfähigkeit:** Sehr hoch (mehrere cm Blei, Meter in Beton)
+
+**Abschirmung:** Dicke Bleischicht (رصاص), Beton (خرسانه)
+
+**Wirkung auf Materie:** Geringe Ionisationskraft, aber hohe Durchdringung, schädigt DNA tief im Körper
+
+**Besondere Hinweise:**
+- Energetisch angeregter Kern sendet elektromagnetische Strahlung aus
+- Geschieht meist innerhalb von Sekundenbruchteilen als Folgeprozess
+- Hat diskrete Energieniveaus
+
+</details>
+
 
 - Durch gezielte Abschirmung kann man zwischen den Strahlungsarten unterscheiden, da sich die Zählrate bei Verwendung unterschiedlicher Materialien (z. B. Papier, Aluminium, Blei) signifikant ändert.
 - Alpha- und Betastrahlung können zusätzlich mittels elektrischer und magnetischer Felder untersucht werden, da sie unterschiedliche Ladungen besitzen und deshalb verschieden abgelenkt werden.
@@ -196,11 +310,15 @@ Dies ist die Gleichung einer Geraden der Form $y = mx + b$, mit:
 
 Durch Auftragung von $\ln N(t)$ gegen $t$ ergibt sich eine Gerade mit der Steigung $-\lambda$.
 
-> [!Linearisierung tritt bei aufgaben auf, in dem man die y-Achse mit ln() macht und dann hoffentlich weil es ursprünglich exponentiell ist, eine lineare Funktion der oberigen Form kriegt, wo die Steigung lambda ist.]
 
->[!Mann kann aber auch lambda schon durch Regression der exponentiellen Funktion ermitteln und falls Linearisierung aufgefordert ist, vergiss nicht die Herleitung der oberigen Formel zu schreiben also ln() auf beide Seiten anwenden.]
+> [!INFO]
+> **Linearisierung:** Linearisierung tritt bei Aufgaben auf, indem man die y-Achse mit $\ln()$ darstellt. Da der ursprüngliche Zusammenhang exponentiell ist, erhält man eine lineare Funktion, deren Steigung $\lambda$ ist.
 
->[! graphische Bestimmung der Halbwertszeit muss man mindestens 3 Werte nehmen und durchschnitt bilden]
+> [!INFO]
+> **Methode:** Man kann $\lambda$ auch direkt durch Regression der exponentiellen Funktion bestimmen. Falls eine Linearisierung gefordert ist, sollte die Herleitung der Formel (Anwenden von $\ln()$ auf beide Seiten) nicht vergessen werden.
+
+> [!INFO]
+> **Graphische:** Zur graphischen Bestimmung der Halbwertszeit sollten mindestens drei Werte genommen und der Durchschnitt gebildet werden.
 
 
 ##### **Aktivität** & **Zählrate**
@@ -208,7 +326,7 @@ Durch Auftragung von $\ln N(t)$ gegen $t$ ergibt sich eine Gerade mit der Steigu
 
 
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-16 at 17.32.25.png]]
+![Image](../Materiellen/Screenshot%202025-02-16%20at%2017.32.25.png)
 
 Hinweise:
 - Zählrate ist kleiner da nicht jeder Zerfall erfasst wird wegen (Messverluste, Abschirmung, Detektoreffizienz)
@@ -219,19 +337,105 @@ Hinweise:
 
 
 
-### Absorptions- Abstand- und zerfallsgesetzt Vergleich
+### Absorptions-, Abstand- und Zerfallsgesetz Vergleich
 
-| **Phänomen**                 | **Formel**                      | **Einheiten.und.Bedeutung.der.Größen**                                                                                                                                                                                                                                                 | **Zusätzliche Abhängigkeiten**                                                                                     | **Vernachlässigte Effekte**                                 | **Linearisierung**                       | **Bedeutung.der.Linearisierung**                                                                                                              | **Hinweise.............................................**                                                                                                           |
-| ---------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Absorption von Strahlung** | $$ I(d) = I_0 e^{-\mu d} $$     | $I(d)$: Intensität nach Durchgang durch das Material ($\text{Bq}$)<br><br>$I_0$: Anfangsintensität ($\text{Bq}$)<br><br>$\mu$: Absorptionskoeffizient ($\text{cm}^{-1}$, $\text{m}^{-1}$)<br><br>$d$: Schichtdicke des absorbierenden Materials ($\text{cm}$, $\text{m}$)<br><br>      | **Halbwertsschichtdicke** $d_{1/2}$: $$ d_{1/2} = \frac{\ln(2)}{\mu} $$ (Je größer $\mu$, desto kleiner $d_{1/2}$) | Streuung, Sekundärstrahlung, Energieabhängigkeit von $\mu$  | $$ \ln (I(x)) = \ln (I_0) - \mu x $$     | Durch Auftragung von $\ln I$ gegen $x$ ergibt sich eine **lineare Gerade** mit der Steigung **$-\mu$**, woraus $\mu$ bestimmbar ist.          | Energieverlust könnte man ausrechnen in dem man Zwei Graphen (ohne Abschirmung und mit) bekommt und dann den gleichen Peak betrachten und Energie Differenz bilden. |
-| **Abstandsgesetz**           | $$ I(r) = I_0 \frac{1}{r^2} $$  | $I(r)$: Intensität in Abstand $r$ ($\text{Bq}$)<br><br>$I_0$: Anfangsintensität ($\text{Bq}$)<br><br>$r$: Abstand zur Strahlungsquelle ($\text{m}$, $\text{cm}$)                                                                                                                       | **Reichweite der Strahlung**: Hängt von Strahlungsart und Medium ab                                                | Streuung, Reflexion, Inhomogene Strahlungsquellen           | $$ \ln (I(r)) = \ln (I_0) - 2 \ln (r) $$ | Auftragung von $\ln (I)$ gegen $\ln (r)$ ergibt eine **Gerade mit der Steigung -2**, woraus die **quadratische Abhängigkeit** erkennbar wird. | Auftragung von $\ln (I)$ gegen $\ln (r)$ ergibt eine **Gerade mit der Steigung -2**, woraus die **quadratische Abhängigkeit** erkennbar wird.                       |
-| **Radioaktiver Zerfall**     | $$ N(t) = N_0 e^{-\lambda t} $$ | $N(t)$: Anzahl der verbleibenden radioaktiven Kerne (keine Einheit, da Anzahl)<br><br>$N_0$: Anfangsanzahl der Kerne (keine Einheit)<br><br>$\lambda$: Zerfallskonstante ($\text{s}^{-1}$, $\text{min}^{-1}$, $\text{h}^{-1}$)<br><br>$t$: Zeit ($\text{s}$, $\text{min}$, $\text{h}$) | **Halbwertszeit** $t_H$: $$ t_H = \frac{\ln(2)}{\lambda} $$ (Je größer $\lambda$, desto kürzer $t_H$)              | Einfluss von Umweltfaktoren auf Zerfall, Sekundärreaktionen | $$ \ln (N(t)) = \ln (N_0) - \lambda t $$ | Auftragung von $\ln N$ gegen $t$ ergibt eine **lineare Gerade mit der Steigung -$\lambda$**, woraus $\lambda$ und $t_H$ bestimmbar sind.      | Auftragung von $\ln N$ gegen $t$ ergibt eine **lineare Gerade mit der Steigung -$\lambda$**, woraus $\lambda$ und $t_H$ bestimmbar sind.                            |
+> **💡 Klicken Sie auf ein Phänomen, um Details anzuzeigen**
 
+<details>
+<summary><strong>🛡️ Absorption von Strahlung</strong></summary>
 
-**Erklärung der Zusammenhänge:**
-- **Absorption:** Beim Durchgang durch Materie wird radioaktive Strahlung abgeschwächt, abhängig von der Materialdicke und dem Absorptionskoeffizienten. (Bei Absorption müsst du die Halbwertsdicke noch mit die Dicke eines Schicht nehmen, da die Halbwertsdicke nur ein Faktor sozusagen). (einfach achten ist es die dicke oder Anzahl der Schichten oder was...ist anders je nach Aufgabe)
-- **Abstandsabhängigkeit:** Die Strahlungsintensität nimmt mit dem Quadrat des Abstands ab, da sich die Strahlung *kugelförmig ausbreitet*.
-- **Zerfallsgesetz:** Die Anzahl der radioaktiven Kerne folgt einem exponentiellen Zerfall, was die Halbwertszeit beschreibt.
+**Formel:**
+$$ I(d) = I_0 e^{-\mu d} $$
+
+**Einheiten und Bedeutung der Größen:**
+- $I(d)$: Intensität nach Durchgang durch das Material (Bq)
+- $I_0$: Anfangsintensität (Bq)
+- $\mu$: Absorptionskoeffizient (cm⁻¹, m⁻¹)
+- $d$: Schichtdicke des absorbierenden Materials (cm, m)
+
+**Zusätzliche Abhängigkeiten:**
+- **Halbwertsschichtdicke** $d_{1/2}$: 
+  $$ d_{1/2} = \frac{\ln(2)}{\mu} $$
+- Je größer $\mu$, desto kleiner $d_{1/2}$
+
+**Vernachlässigte Effekte:**
+- Streuung
+- Sekundärstrahlung
+- Energieabhängigkeit von $\mu$
+
+**Linearisierung:**
+$$ \ln (I(d)) = \ln (I_0) - \mu d $$
+
+**Bedeutung der Linearisierung:**
+Durch Auftragung von $\ln I$ gegen $d$ ergibt sich eine **lineare Gerade** mit der Steigung **$-\mu$**, woraus $\mu$ bestimmbar ist.
+
+**Hinweise:**
+- Energieverlust könnte man ausrechnen, indem man zwei Graphen (ohne Abschirmung und mit) bekommt und dann den gleichen Peak betrachtet und Energie-Differenz bildet
+- Bei Absorption muss man die Halbwertsdicke noch mit der Dicke einer Schicht nehmen, da die Halbwertsdicke nur ein Faktor ist
+
+</details>
+
+<details>
+<summary><strong>📐 Abstandsgesetz</strong></summary>
+
+**Formel:**
+$$ I(r) = I_0 \frac{1}{r^2} $$
+
+**Einheiten und Bedeutung der Größen:**
+- $I(r)$: Intensität in Abstand $r$ (Bq)
+- $I_0$: Anfangsintensität (Bq)
+- $r$: Abstand zur Strahlungsquelle (m, cm)
+
+**Zusätzliche Abhängigkeiten:**
+- **Reichweite der Strahlung**: Hängt von Strahlungsart und Medium ab
+
+**Vernachlässigte Effekte:**
+- Streuung
+- Reflexion
+- Inhomogene Strahlungsquellen
+
+**Linearisierung:**
+$$ \ln (I(r)) = \ln (I_0) - 2 \ln (r) $$
+
+**Bedeutung der Linearisierung:**
+Auftragung von $\ln (I)$ gegen $\ln (r)$ ergibt eine **Gerade mit der Steigung -2**, woraus die **quadratische Abhängigkeit** erkennbar wird.
+
+**Hinweise:**
+- Die Strahlungsintensität nimmt mit dem Quadrat des Abstands ab, da sich die Strahlung *kugelförmig ausbreitet*
+
+</details>
+
+<details>
+<summary><strong>⚛️ Radioaktiver Zerfall</strong></summary>
+
+**Formel:**
+$$ N(t) = N_0 e^{-\lambda t} $$
+
+**Einheiten und Bedeutung der Größen:**
+- $N(t)$: Anzahl der verbleibenden radioaktiven Kerne (keine Einheit, da Anzahl)
+- $N_0$: Anfangsanzahl der Kerne (keine Einheit)
+- $\lambda$: Zerfallskonstante (s⁻¹, min⁻¹, h⁻¹)
+- $t$: Zeit (s, min, h)
+
+**Zusätzliche Abhängigkeiten:**
+- **Halbwertszeit** $t_H$: 
+  $$ t_H = \frac{\ln(2)}{\lambda} $$
+- Je größer $\lambda$, desto kürzer $t_H$
+
+**Vernachlässigte Effekte:**
+- Einfluss von Umweltfaktoren auf Zerfall
+- Sekundärreaktionen
+
+**Linearisierung:**
+$$ \ln (N(t)) = \ln (N_0) - \lambda t $$
+
+**Bedeutung der Linearisierung:**
+Auftragung von $\ln N$ gegen $t$ ergibt eine **lineare Gerade mit der Steigung -$\lambda$**, woraus $\lambda$ und $t_H$ bestimmbar sind.
+
+**Hinweise:**
+- Die Anzahl der radioaktiven Kerne folgt einem exponentiellen Zerfall, was die Halbwertszeit beschreibt
+
+</details>
 
 
 ## Halbleiterdetektor und Energiespektren
@@ -257,10 +461,10 @@ Wenn eine Diode in *Sperrrichtung* geschaltet wird, entsteht eine breite *ladung
 ### Energiespektrum
 
 (Der Graph zu den Zerfalls Produkte bei der Kalibrierung gehört einen bestimmten ZerfallsNuklid und die Produkte aber es zeichnet dann nur eine bestimmte Zerfallsart. Also wenn es um die Alpha Zerfällen einer Nuklid geht, dann kann ich die Beta Zerfälle nicht am Graph sehen und darum dann bei der Zerfallsreihe interessiert mich nur die Alpha Zerfälle und deren Energiewerte.)
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-15 at 12.47.20.png| 800]]
+![Image](../Materiellen/Screenshot%202025-02-15%20at%2012.47.20.png)
 Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern nur die Nummer eines Kanals. (Analogievergleich zu Röntgenröhre Lambda-n Graph) Wir müssen also die Energie pro Kanal bestimmen (Kalibrierung).
 - Jeder Kanal bestimmt einen Energiebereich durch $E=E_{proKanal}\cdot Kanal_{\operatorname{nummer}}$.
-- Der Spannungshohen Analysator ordnet dann jeder Spannungsimpuls einen bestimmten Kanal zu und die zählt wie oft diesen Spannungsimpuls registriert wurde.
+- Der Spannungshöhen Analysator ordnet dann jeder Spannungsimpuls einen bestimmten Kanal zu und die zählt wie oft diesen Spannungsimpuls registriert wurde.
 - Höherer Kanalnummer bedeutet höhere Energie.
 
 | Eigenschaft                     | Hochenergetisches α-Teilchen       | Niedrigenergetisches α-Teilchen   |
@@ -271,7 +475,7 @@ Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern
 | **Wer wird zuerst abgebremst?** | Später                             | Früher                            |
 
 **Bestimmung des Energiewerts eines Kanals:**
-2. Bestimme die Zerfallsprodukte von dem Element (verfolge das was wahrscheinlicher ist) und notiere die Energiewerte der Alpha-Zerfälle (falls es um Alpha-Zerfälle bei dem Energiespektrum geht.)
+2. Bestimme die Zerfallsprodukte von dem Element (verfolge das was wahrscheinlicher ist) und notiere die Energiewerte der Alpha-Zerfälle (falls es um Alpha-Zerfälle geht.)
 3. Ordne Zerfallsenergie den Peaks in E-N-Diagramm zu. (höhere Energie --> höhere Kanalnummer).
 4. (Energieunterschied zweier Peaks)/ (Kanalunterschied) rechnen, um den Offset zu vermeiden.
 5. Überprüfe die Energiewerte anderer Nuklide durch $E=E_{proKanal}\cdot Kanal_{\operatorname{nummer}}$
@@ -280,7 +484,7 @@ Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern
 
 #### Bragg-Kurve:
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-15 at 11.57.18.png| 500]]
+![Image](../Materiellen/Screenshot%202025-02-15%20at%2011.57.18.png)
 **Beschreibung:**
 - *Zuerst geringer Energieverlust*: Am Anfang verliert das Teilchen *wenig Energie pro Strecke*.
 - Mit zunehmender Strecke steigt die *Ionisationsdichte*, da die Teilchen langsamer werden und somit mehr Energie pro Strecke abgeben können.
@@ -301,7 +505,7 @@ Die Energie Achse zeigt nicht direkt die Energie eines Zerfalls Produkt, sondern
 
 ## Quantisierung der Gesamtenergie von Nukleonen im eindimensionalen Potenzialtopf
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-03-11 at 12.11.37.png| 600]]
+![Image](../Materiellen/Screenshot%202025-03-11%20at%2012.11.37.png)
 
 ### Grundlagen des eindimensionalen Potenzialtopfmodells
 
@@ -378,13 +582,13 @@ Wenn eine Probe zwei radioaktive Nuklide mit unterschiedlichen Halbwertszeiten e
 3. Erstelle das $t$-$N$- oder das $t$-$\ln N$-Diagramm für das kurzlebige Nuklid.
 4. Bestimme die Steigung $-\lambda$ der linearen Anpassung im $t$-$\ln N$-Diagramm. (oder direkt durch $t$-$N$-Diagramm)
 5. Berechne die Halbwertszeit mit:$$ t_H = \frac{\ln 2}{\lambda} $$
-[[12-Semster-1/Physik LK/Materiellen/Zerfallsgesetz 2021SuS.pdf]] (Beispiel Aufgabe mit Lösung dazu ganz am Ende)
+[[Materiellen/Zerfallsgesetz 2021SuS.pdf]] (Beispiel Aufgabe mit Lösung dazu ganz am Ende)
 
 
 ##### **Zerfallsreihe mit Reaktionsgleichung**
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-12 at 23.06.17.png| 500]]
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-12 at 23.07.03.png| 500]]
+![Image](../Materiellen/Screenshot%202025-02-12%20at%2023.06.17.png)
+![Image](../Materiellen/Screenshot%202025-02-12%20at%2023.07.03.png)
 
 
 ##### **Erläutere, warum die Zählrate auch ohne Absorption mit zunehmender Entfernung vom Präparat geringer wird**
@@ -400,23 +604,23 @@ https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-fortfuehrung/aufg
 
 ##### **Aufgaben zu Absorption und Abstand aus dem Unterricht**
 
-[[12-Semster-1/Physik LK/Materiellen/AB Absorption 2023.pdf]]
+[[Materiellen/AB Absorption 2023.pdf]]
 
-[[12-Semster-1/Physik LK/Materiellen/AB Abstandsgesetz 2023.pdf]]
+[[Materiellen/AB Abstandsgesetz 2023.pdf]]
 
 
 
 
 ##### **Energiespektrum von Alphastrahlung**
 
-![[12-Semster-1/Physik LK/Materiellen/Screenshot 2025-02-15 at 13.24.19.png]]
+![Image](../Materiellen/Screenshot%202025-02-15%20at%2013.24.19.png)
 
 
-![[12-Semster-1/Physik LK/Materiellen/r-E Diagramm.png| 500]]
+![Image](../Materiellen/r-E%20Diagramm.png)
 - Die Energie nimmt mit steigendem Abstand ab, da die α-Teilchen auf ihrem Weg Energie durch Wechselwirkungen mit dem Medium (Luft oder anderes Material) verlieren. 
 - Wenn sich die Energie null nähert, erreichen die α-Teilchen ihre Reichweite, daher deren gesamte Energie wird an die Luft Moleküle übertragen.
 
-![[12-Semster-1/Physik LK/Materiellen/bc279ea42653ed42a5786cad9043236b78614231929d7594d29e449e9741dd5f.png| 500]]
+![Image](../Materiellen/bc279ea42653ed42a5786cad9043236b78614231929d7594d29e449e9741dd5f.png)
 Delta E/Delta r kommen aus zwei aufeinanderfolgender Werte der jeweiligen Größe.
 
 |                |                            |
