@@ -1,10 +1,20 @@
 # School Notes
 
-A comprehensive collection of study materials for various school subjects, built with [Quartz](https://quartz.jzhao.xyz/).
+A comprehensive collection of study materials for vario- **Development Site**: [school-notes-dev](https://github.com/Scratch-project/school-notes-dev)
+- **Quartz Documentation**: [quartz.jzhao.xyz](https://quartz.jzhao.xyz/)
+- **Physics LK Original**: Based on comprehensive physics course materials
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+*"[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important." — Richard Hamming*ubjects, built with [Quartz](https://quartz.jzhao.xyz/).
 
 ## 🌐 Live Site
 
-Visit the deployed site: [https://YOUR-USERNAME.github.io/school-notes](https://YOUR-USERNAME.github.io/school-notes)
+Visit the deployed site: [https://Scratch-project.github.io/school-notes](https://Scratch-project.github.io/school-notes)
 
 ## 📚 Available Subjects
 
@@ -28,8 +38,8 @@ Visit the deployed site: [https://YOUR-USERNAME.github.io/school-notes](https://
 - Only merge well-tested changes from development repository
 
 ### Development Repository
-- **Repository**: [school-notes-dev](https://github.com/YOUR-USERNAME/school-notes-dev)
-- **Live Site**: [https://YOUR-USERNAME.github.io/school-notes-dev](https://YOUR-USERNAME.github.io/school-notes-dev)
+- **Repository**: [school-notes-dev](https://github.com/Scratch-project/school-notes-dev)
+- **Live Site**: [https://Scratch-project.github.io/school-notes-dev](https://Scratch-project.github.io/school-notes-dev)
 - Used for testing new features and content
 - Experimental changes and improvements
 
@@ -44,7 +54,7 @@ This site automatically builds and deploys to GitHub Pages when changes are push
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/school-notes.git
+git clone https://github.com/Scratch-project/school-notes.git
 cd school-notes
 
 # Install dependencies
