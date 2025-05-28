@@ -1,6 +1,8 @@
-# 1) Einführende Worte zum Th![![Image](./Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
+# 1) Einführende Worte zum Thema
+![Image](../Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
 
-## Messung der aufgenommenen Ladung **Q** in Abhängigkeit von der Spannung **U**:ge](./Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
+## Messung der aufgenommenen Ladung **Q** in Abhängigkeit von der Spannung **U**:ge
+![Image](../Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
 
 ## Messung der aufgenommenen Ladung **Q** in Abhängigkeit von der Spannung **U**::
 
@@ -31,7 +33,7 @@ Dieses Versuchsprotokoll behandelt die Messung der *Kapazität eines Kondensator
 
 ## Skizze:
 
-![Image](./Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
+![Image](../Materiellen/Schaltung%20zur%20Aufladung%20und%20Messung%20der%20Entladung%20eines%20Kondensators.png)
 
 ## Messung der aufgenommenen Ladung **Q** in Abhängigkeit von der Spannung **U**: 
 
@@ -51,7 +53,7 @@ Eine Platte des Kondensators wird mit der Spannungsquelle und dem Messverstärk
 #### Auswertung:
 - Anhand des Graphen und der Messwerte wird deutlich, dass eine lineare Funktion vorliegt.
 
-![Image](./Materiellen/Q%20in%20Abhängigkeit%20von%20U.png)
+![Image](../Materiellen/Q%20in%20Abhängigkeit%20von%20U.png)
 
 
 #### Mathematischer Zusammenhang:
@@ -87,7 +89,7 @@ Der vorherige Versuch wurde mit einem festen Plattenabstand von 2mm, aber mit un
 
 #### Auswertung: 
 - Anhand des Graphen und der Messwerte wird deutlich, dass eine lineare Funktion vorliegt.
-![Image](./Materiellen/C%20in%20Abhängigkeit%20von%20A.png)
+![Image](../Materiellen/C%20in%20Abhängigkeit%20von%20A.png)
 #### Mathematischer Zusammenhang:
 $$y=0.4437x-0,3611$$
 #### physikalischer Zusammenhang:
@@ -113,13 +115,13 @@ Der vorherige Versuch wurde mit einer festen Plattengröße von 450 cm², aber 
 
 #### Auswertung: 
 - Anhand des Graphen und der Messwerte wird deutlich, dass ein Hyperbel vorliegt.
-![Image](./Materiellen/C%20in%20Abhängigkeit%20vom%20d.png)
+![Image](../Materiellen/C%20in%20Abhängigkeit%20vom%20d.png)
 
 #### Mathematischer Zusammenhang:
 $$y=401,02x^{-1,005}$$
 #### physikalischer Zusammenhang:
 
-$$C=401,02\cdot\frac{\operatorname{\operatorname{mm}}\operatorname{}\operatorname{}}{10^{12}F\operatorname{}}\cdot\frac{1}{d^{1,005}}$$
+$$C=401,02\cdot\frac{mm}{10^{12}F}\cdot\frac{1}{d^{1,005}}$$
 Daraus folgt:
 $$C~\varpropto\frac{1}{d}$$
 
