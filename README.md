@@ -69,7 +69,7 @@ npx quartz build --serve
 ```
 content/
 ├── physics/           # Physics study materials
-│   ├── Themen Seperat/    # Topic-specific content
+│   ├── Themen/    # Topic-specific content
 │   ├── Materiellen/       # Images and references
 │   └── ...
 ├── mathematics/       # Mathematics (coming soon)

@@ -1,7 +1,9 @@
 
 ## Die fünf Systeme der Braun´sche Röhre
 
-[[Materiellen/Stunde 10 die Braun´sche Röhre 23_24.pdf]]
+![Stunde 10: Die Braun'sche Röhre 23/24 (PDF)](Materiellen/Stunde%2010%20die%20Braun´sche%20Röhre%2023_24.pdf)
+
+
 ### Emittierendes & Bündelendes System (1- & 2-System)
 
 1. **Kathode und Elektronenemission**
